@@ -36,10 +36,17 @@ from config import (
     SERVERS,
     TIER_CHOICES,
 )
-from crafting_models import CraftingRecipe, load_recipes
+from crafting_models import CraftingRecipe, load_crafting_modifiers, load_recipes
 from data_client import start_data_client
 from models import MarketPrice, format_number
-from profit_calculator import CityProfit, MaterialCost, build_material_costs, calculate_city_profit
+from profit_calculator import (
+    CityProfit,
+    MaterialCost,
+    ReturnRateInfo,
+    build_material_costs,
+    calculate_city_profit,
+    calculate_return_rate_info,
+)
 
 
 MARKET_COLUMNS: tuple[tuple[str, str, int, str], ...] = (
@@ -90,6 +97,9 @@ class UtilityResult:
     recipe: CraftingRecipe
     material_costs: list[MaterialCost]
     city_profits: list[CityProfit]
+    return_info: ReturnRateInfo
+    crafting_city: str
+    sell_locations: list[str]
     total_cost: float
     missing_prices: list[str]
     received_records: int
@@ -105,6 +115,7 @@ class AlbionMarketApp(tk.Tk):
         self.result_queue: queue.Queue[tuple[str, Any]] = queue.Queue()
         self.prices: list[MarketPrice] = []
         self.recipes = load_recipes()
+        self.crafting_modifiers = load_crafting_modifiers()
         self.is_fetching = False
         self.is_calculating_profit = False
         self.auto_refresh_job: str | None = None
@@ -133,8 +144,11 @@ class AlbionMarketApp(tk.Tk):
         self.utility_tier_filter = tk.StringVar(value="Todos")
         self.utility_enchantment_filter = tk.StringVar(value="Todos")
         self.utility_material_city = tk.StringVar(value=DEFAULT_LOCATION)
+        self.utility_crafting_city = tk.StringVar(value=DEFAULT_LOCATION)
+        self.utility_sell_location = tk.StringVar(value=ALL_LOCATIONS_LABEL)
         self.utility_quantity = tk.StringVar(value="1")
         self.utility_return_rate = tk.StringVar(value="15,2")
+        self.utility_auto_return = tk.BooleanVar(value=True)
         self.utility_station_fee = tk.StringVar(value="0")
         self.utility_market_tax = tk.StringVar(value="6,5")
         self.utility_use_focus = tk.BooleanVar(value=True)
@@ -146,6 +160,9 @@ class AlbionMarketApp(tk.Tk):
         self.utility_search_text.trace_add("write", lambda *_: self.refresh_recipe_selector())
         self.utility_tier_filter.trace_add("write", lambda *_: self.refresh_recipe_selector())
         self.utility_enchantment_filter.trace_add("write", lambda *_: self.refresh_recipe_selector())
+        self.utility_crafting_city.trace_add("write", lambda *_: self.update_return_rate_preview())
+        self.utility_use_focus.trace_add("write", lambda *_: self.update_return_rate_preview())
+        self.utility_auto_return.trace_add("write", lambda *_: self.update_return_rate_preview())
         self.after(100, self.process_result_queue)
         self.after(500, self.start_data_client_on_launch)
 
@@ -276,7 +293,7 @@ class AlbionMarketApp(tk.Tk):
 
     def _build_utility_tab(self, parent: ttk.Frame) -> None:
         parent.columnconfigure(0, weight=1)
-        parent.rowconfigure(3, weight=1)
+        parent.rowconfigure(4, weight=1)
 
         top_row = ttk.Frame(parent)
         top_row.grid(row=0, column=0, sticky="ew", pady=(0, 10))
@@ -302,8 +319,8 @@ class AlbionMarketApp(tk.Tk):
         ttk.Button(top_row, text="Calcular utilidad", command=self.start_profit_calculation).grid(row=0, column=6, padx=(0, 12))
 
         filter_row = ttk.Frame(parent)
-        filter_row.grid(row=1, column=0, sticky="ew", pady=(0, 10))
-        filter_row.columnconfigure(13, weight=1)
+        filter_row.grid(row=1, column=0, sticky="ew", pady=(0, 8))
+        filter_row.columnconfigure(11, weight=1)
 
         ttk.Label(filter_row, text="Tier").grid(row=0, column=0, padx=(0, 6))
         ttk.Combobox(filter_row, textvariable=self.utility_tier_filter, values=TIER_CHOICES, state="readonly", width=8).grid(
@@ -319,7 +336,7 @@ class AlbionMarketApp(tk.Tk):
             width=16,
         ).grid(row=0, column=3, padx=(0, 12))
 
-        ttk.Label(filter_row, text="Ciudad materiales").grid(row=0, column=4, padx=(0, 6))
+        ttk.Label(filter_row, text="Compra materiales").grid(row=0, column=4, padx=(0, 6))
         ttk.Combobox(
             filter_row,
             textvariable=self.utility_material_city,
@@ -328,29 +345,67 @@ class AlbionMarketApp(tk.Tk):
             width=15,
         ).grid(row=0, column=5, padx=(0, 12))
 
-        ttk.Label(filter_row, text="Cantidad").grid(row=0, column=6, padx=(0, 6))
-        ttk.Entry(filter_row, textvariable=self.utility_quantity, width=8).grid(row=0, column=7, padx=(0, 12))
+        ttk.Label(filter_row, text="Fabricar en").grid(row=0, column=6, padx=(0, 6))
+        ttk.Combobox(
+            filter_row,
+            textvariable=self.utility_crafting_city,
+            values=[city for city in LOCATIONS if city != "Black Market"],
+            state="readonly",
+            width=15,
+        ).grid(row=0, column=7, padx=(0, 12))
 
-        ttk.Label(filter_row, text="Retorno %").grid(row=0, column=8, padx=(0, 6))
-        ttk.Entry(filter_row, textvariable=self.utility_return_rate, width=8).grid(row=0, column=9, padx=(0, 12))
+        ttk.Label(filter_row, text="Vender en").grid(row=0, column=8, padx=(0, 6))
+        ttk.Combobox(
+            filter_row,
+            textvariable=self.utility_sell_location,
+            values=LOCATION_CHOICES,
+            state="readonly",
+            width=17,
+        ).grid(row=0, column=9, padx=(0, 12))
 
-        ttk.Label(filter_row, text="Fee/u").grid(row=0, column=10, padx=(0, 6))
-        ttk.Entry(filter_row, textvariable=self.utility_station_fee, width=9).grid(row=0, column=11, padx=(0, 12))
+        ttk.Label(filter_row, text="Cantidad").grid(row=0, column=10, padx=(0, 6))
+        ttk.Entry(filter_row, textvariable=self.utility_quantity, width=8).grid(row=0, column=11, sticky="w", padx=(0, 12))
 
-        ttk.Label(filter_row, text="Impuesto %").grid(row=0, column=12, padx=(0, 6))
-        ttk.Entry(filter_row, textvariable=self.utility_market_tax, width=8).grid(row=0, column=13, sticky="w", padx=(0, 12))
+        cost_row = ttk.Frame(parent)
+        cost_row.grid(row=2, column=0, sticky="ew", pady=(0, 8))
+        cost_row.columnconfigure(12, weight=1)
 
-        ttk.Checkbutton(filter_row, text="Usar foco", variable=self.utility_use_focus).grid(row=0, column=14, padx=(0, 12))
+        ttk.Checkbutton(
+            cost_row,
+            text="Retorno automatico",
+            variable=self.utility_auto_return,
+            command=self.update_return_rate_preview,
+        ).grid(row=0, column=0, padx=(0, 12))
+
+        ttk.Label(cost_row, text="Retorno %").grid(row=0, column=1, padx=(0, 6))
+        self.return_rate_entry = ttk.Entry(cost_row, textvariable=self.utility_return_rate, width=8)
+        self.return_rate_entry.grid(row=0, column=2, padx=(0, 12))
+
+        ttk.Label(cost_row, text="Fee/u").grid(row=0, column=3, padx=(0, 6))
+        ttk.Entry(cost_row, textvariable=self.utility_station_fee, width=9).grid(row=0, column=4, padx=(0, 12))
+
+        ttk.Label(cost_row, text="Impuesto %").grid(row=0, column=5, padx=(0, 6))
+        ttk.Entry(cost_row, textvariable=self.utility_market_tax, width=8).grid(row=0, column=6, padx=(0, 12))
+
+        ttk.Checkbutton(
+            cost_row,
+            text="Usar foco",
+            variable=self.utility_use_focus,
+            command=self.update_return_rate_preview,
+        ).grid(row=0, column=7, padx=(0, 12))
+
+        self.return_preview_text = tk.StringVar(value="Retorno: -")
+        ttk.Label(cost_row, textvariable=self.return_preview_text, anchor="w").grid(row=0, column=8, sticky="w", padx=(0, 12))
 
         summary = ttk.Label(
             parent,
-            text="Fase 1: usa recetas oficiales, precios de venta normales, retorno manual, fee manual e impuesto manual.",
+            text="Fase 2: separa compra, fabricacion y venta; calcula retorno automatico por ciudad, categoria y foco.",
             anchor="w",
         )
-        summary.grid(row=2, column=0, sticky="ew", pady=(0, 10))
+        summary.grid(row=3, column=0, sticky="ew", pady=(0, 10))
 
         tables = ttk.PanedWindow(parent, orient="vertical")
-        tables.grid(row=3, column=0, sticky="nsew")
+        tables.grid(row=4, column=0, sticky="nsew")
 
         material_frame = ttk.Frame(tables)
         profit_frame = ttk.Frame(tables)
@@ -388,9 +443,10 @@ class AlbionMarketApp(tk.Tk):
         self.profit_tree.configure(yscrollcommand=profit_scrollbar.set)
 
         footer = ttk.Label(parent, textvariable=self.utility_status_text, anchor="w")
-        footer.grid(row=4, column=0, sticky="ew", pady=(10, 0))
+        footer.grid(row=5, column=0, sticky="ew", pady=(10, 0))
 
         self.refresh_recipe_selector()
+        self.update_return_rate_preview()
 
     def configure_tree_columns(
         self,
@@ -417,7 +473,6 @@ class AlbionMarketApp(tk.Tk):
             if tree is not None:
                 tree.tag_configure("Reciente", background="#e9f7ef")
                 tree.tag_configure("Precaucion", background="#fff8dc")
-                tree.tag_configure("Precaución", background="#fff8dc")
                 tree.tag_configure("Desactualizado", background="#fdecea")
                 tree.tag_configure("Sin datos", background="#f2f2f2")
                 tree.tag_configure("profit_positive", background="#e9f7ef")
@@ -651,6 +706,8 @@ class AlbionMarketApp(tk.Tk):
         else:
             self.utility_status_text.set("Utilidad: no se encontro data/recipes.json. Ejecuta update_recipes.py.")
 
+        self.update_return_rate_preview()
+
     def get_matching_recipes(self, limit: int | None = None) -> list[CraftingRecipe]:
         recipe_catalog = {item_id: self.get_item_name(item_id) for item_id in self.recipes}
         item_ids = filter_catalog_items(recipe_catalog, self.utility_search_text.get())
@@ -688,8 +745,54 @@ class AlbionMarketApp(tk.Tk):
         recipe = self.get_selected_recipe()
         if recipe is None:
             return
+        self.update_return_rate_preview()
         self.utility_status_text.set(
-            f"Utilidad: receta seleccionada {recipe.item_id}, materiales: {len(recipe.materials)}, foco/u: {recipe.focus}."
+            f"Utilidad: receta seleccionada {recipe.item_id}, categoria: {recipe.category}, "
+            f"materiales: {len(recipe.materials)}, foco/u: {recipe.focus}."
+        )
+
+    def get_utility_sell_locations(self) -> list[str]:
+        selected_location = self.utility_sell_location.get()
+        if selected_location == ALL_LOCATIONS_LABEL:
+            return LOCATIONS
+        return [selected_location]
+
+    def get_current_return_info(self) -> ReturnRateInfo:
+        recipe = self.get_selected_recipe()
+        manual_rate = self.parse_float_setting(self.utility_return_rate.get())
+        if recipe is None:
+            return ReturnRateInfo(0.0, 0.0, 0.0, 0.0, 0.0, "Sin receta")
+
+        return calculate_return_rate_info(
+            recipe=recipe,
+            crafting_city=self.utility_crafting_city.get(),
+            modifier_book=self.crafting_modifiers,
+            use_focus=self.utility_use_focus.get(),
+            manual_return_rate_percent=manual_rate,
+            auto_return_rate=self.utility_auto_return.get(),
+        )
+
+    def update_return_rate_preview(self) -> None:
+        if not hasattr(self, "return_preview_text"):
+            return
+
+        try:
+            return_info = self.get_current_return_info()
+        except ValueError:
+            self.return_preview_text.set("Retorno: valor manual invalido")
+            return
+
+        if hasattr(self, "return_rate_entry"):
+            self.return_rate_entry.configure(state="disabled" if self.utility_auto_return.get() else "normal")
+
+        if self.utility_auto_return.get():
+            self.utility_return_rate.set(f"{return_info.return_rate_percent:.2f}".replace(".", ","))
+
+        recipe = self.get_selected_recipe()
+        category = recipe.category if recipe is not None else "-"
+        self.return_preview_text.set(
+            f"Retorno {return_info.source}: {return_info.return_rate_percent:.2f}% | "
+            f"Bonus prod. {return_info.production_bonus_percent:.1f}% | Cat. {category}"
         )
 
     def start_profit_calculation(self) -> None:
@@ -703,8 +806,8 @@ class AlbionMarketApp(tk.Tk):
             return
 
         try:
-            quantity = max(1, int(float(self.utility_quantity.get().replace(",", "."))))
-            return_rate = self.parse_float_setting(self.utility_return_rate.get())
+            quantity = max(1, int(self.parse_float_setting(self.utility_quantity.get())))
+            return_info = self.get_current_return_info()
             station_fee = max(0.0, self.parse_float_setting(self.utility_station_fee.get()))
             market_tax = max(0.0, self.parse_float_setting(self.utility_market_tax.get()))
         except ValueError as exc:
@@ -712,15 +815,29 @@ class AlbionMarketApp(tk.Tk):
             return
 
         material_city = self.utility_material_city.get()
+        crafting_city = self.utility_crafting_city.get()
+        sell_locations = self.get_utility_sell_locations()
         server_url = SERVERS[self.utility_server_name.get()]
         self.is_calculating_profit = True
         self.utility_status_text.set(
-            f"Utilidad: consultando materiales en {material_city} y venta en {len(LOCATIONS)} ciudades..."
+            f"Utilidad: materiales en {material_city}, fabricacion en {crafting_city}, "
+            f"venta en {len(sell_locations)} ciudad(es)..."
         )
 
         worker = threading.Thread(
             target=self.calculate_profit_in_background,
-            args=(server_url, recipe, material_city, quantity, return_rate, station_fee, market_tax, self.utility_use_focus.get()),
+            args=(
+                server_url,
+                recipe,
+                material_city,
+                crafting_city,
+                sell_locations,
+                quantity,
+                return_info,
+                station_fee,
+                market_tax,
+                self.utility_use_focus.get(),
+            ),
             daemon=True,
         )
         worker.start()
@@ -730,8 +847,10 @@ class AlbionMarketApp(tk.Tk):
         server_url: str,
         recipe: CraftingRecipe,
         material_city: str,
+        crafting_city: str,
+        sell_locations: list[str],
         quantity: int,
-        return_rate: float,
+        return_info: ReturnRateInfo,
         station_fee: float,
         market_tax: float,
         use_focus: bool,
@@ -739,8 +858,14 @@ class AlbionMarketApp(tk.Tk):
         try:
             material_item_ids = sorted({material.item_id for material in recipe.materials})
             material_prices = fetch_market_prices(server_url, material_item_ids, [material_city], qualities=[1])
-            item_prices = fetch_market_prices(server_url, [recipe.item_id], LOCATIONS, qualities=[1])
-            material_costs = build_material_costs(recipe, material_prices, material_city, quantity, return_rate)
+            item_prices = fetch_market_prices(server_url, [recipe.item_id], sell_locations, qualities=[1])
+            material_costs = build_material_costs(
+                recipe,
+                material_prices,
+                material_city,
+                quantity,
+                return_info.return_rate_percent,
+            )
             missing_prices = [cost.item_id for cost in material_costs if cost.unit_price <= 0]
             material_total = sum(cost.net_cost for cost in material_costs)
             station_total = station_fee * quantity
@@ -748,12 +873,15 @@ class AlbionMarketApp(tk.Tk):
             total_cost = material_total + station_total + crafting_silver_total
             city_profits = [
                 calculate_city_profit(recipe, item_prices, city, quantity, total_cost, market_tax, use_focus)
-                for city in LOCATIONS
+                for city in sell_locations
             ]
             result = UtilityResult(
                 recipe=recipe,
                 material_costs=material_costs,
                 city_profits=city_profits,
+                return_info=return_info,
+                crafting_city=crafting_city,
+                sell_locations=sell_locations,
                 total_cost=total_cost,
                 missing_prices=missing_prices,
                 received_records=len(material_prices) + len(item_prices),
@@ -868,7 +996,8 @@ class AlbionMarketApp(tk.Tk):
         if best is not None:
             best_text = f" | Mejor ciudad: {best.city} ({self.format_silver(best.profit_total)})"
         self.utility_status_text.set(
-            f"Utilidad: {result.recipe.item_id} | Registros: {result.received_records} | "
+            f"Utilidad: {result.recipe.item_id} | Fabrica: {result.crafting_city} | "
+            f"Retorno: {result.return_info.return_rate_percent:.2f}% | Registros: {result.received_records} | "
             f"Costo total: {self.format_silver(result.total_cost)}{best_text}{missing}"
         )
 

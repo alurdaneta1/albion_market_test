@@ -5,7 +5,7 @@ Aplicacion pequena de escritorio para consultar precios del mercado de Albion On
 Incluye dos pestañas:
 
 - `Mercado`: consulta precios actuales por servidor, ciudad, producto, tier, encantamiento y calidad.
-- `Utilidad`: fase 1 de calculadora de crafteo para comparar costo de materiales contra precio de venta por ciudad.
+- `Utilidad`: calculadora de crafteo para comparar costo de materiales contra precio de venta por ciudad.
 
 ## Requisitos
 
@@ -60,21 +60,34 @@ La pestaña `Utilidad` compara una receta contra precios de mercado.
 3. Filtra por tier y encantamiento.
 4. Selecciona la receta.
 5. Elige la ciudad donde compras materiales.
-6. Escribe cantidad a fabricar.
-7. Ajusta `Retorno %`, `Fee/u` de estacion e `Impuesto %`.
-8. Pulsa `Calcular utilidad`.
+6. Elige la ciudad donde vas a fabricar.
+7. Elige si quieres comparar todas las ciudades de venta o solo una.
+8. Escribe cantidad a fabricar.
+9. Deja activo `Retorno automatico` o desactivalo para escribir un retorno manual.
+10. Ajusta `Fee/u` de estacion e `Impuesto %`.
+11. Pulsa `Calcular utilidad`.
 
-La fase 1 usa:
+La calculadora usa:
 
 - Recetas oficiales extraidas de `ao-bin-dumps`.
+- Modificadores oficiales de fabricacion extraidos de `craftingmodifiers.json`.
 - Precio minimo de venta de materiales en la ciudad seleccionada.
-- Precio minimo de venta del item final en cada ciudad configurada.
+- Precio minimo de venta del item final en la ciudad o ciudades seleccionadas.
 - Calidad normal para materiales y producto final.
-- Retorno manual aplicado solo a materiales retornables.
+- Retorno automatico por ciudad de fabricacion, categoria de receta y uso de foco.
+- Retorno manual opcional aplicado solo a materiales retornables.
 - Fee de estacion manual por unidad.
 - Impuesto manual sobre la venta.
 
-Todavia no automatiza bonos por ciudad, nutricion de estacion, foco exacto por especializacion, calidad esperada ni impuestos personalizados por premium. Esos puntos quedan preparados para fases siguientes.
+El retorno automatico convierte el bonus de produccion con esta formula:
+
+```text
+retorno = 1 - 1 / (1 + bonus_total)
+```
+
+Por ejemplo, un bonus base de ciudad `0.18` produce aproximadamente `15,25%` de retorno. El foco usa una constante documentada de `0.59` como bonus de produccion adicional, porque el archivo oficial de modificadores no trae un campo separado de foco.
+
+Todavia no automatiza nutricion de estacion, foco exacto por especializacion, calidad esperada ni impuestos personalizados por premium. Esos puntos quedan preparados para fases siguientes.
 
 ## Agregar productos o ciudades
 
@@ -118,10 +131,17 @@ Las recetas de crafteo se generan desde el dump oficial `items.json`:
 .venv\Scripts\python.exe update_recipes.py
 ```
 
+Los modificadores de retorno por ciudad/categoria se generan desde `craftingmodifiers.json`:
+
+```bash
+.venv\Scripts\python.exe update_crafting_modifiers.py
+```
+
 Estos comandos crean o reemplazan:
 
 - `data/items_catalog.json`
 - `data/recipes.json`
+- `data/crafting_modifiers.json`
 
 ## Albion Data Client
 

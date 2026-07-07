@@ -1,0 +1,114 @@
+{
+  "cities": {
+    "Brecilien": {
+      "cluster_id": "5000",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "bag": 0.15,
+        "cape": 0.15,
+        "potion": 0.15
+      },
+      "refining_bonus": 0.18
+    },
+    "Bridgewatch": {
+      "cluster_id": "3004",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "axe": 0.15,
+        "froststaff": 0.15,
+        "hide": 0.4,
+        "meat_cow": 0.1,
+        "offhand": 0.15,
+        "plate_shoes": 0.15,
+        "quarterstaff": 0.15
+      },
+      "refining_bonus": 0.18
+    },
+    "Caerleon": {
+      "cluster_id": "3003",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "food": 0.15,
+        "gatherergear": 0.15,
+        "knuckles": 0.15,
+        "shapeshifterstaff": 0.15,
+        "tools": 0.15
+      },
+      "refining_bonus": 0.18
+    },
+    "Fort Sterling": {
+      "cluster_id": "4000",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "cloth_armor": 0.15,
+        "hammer": 0.15,
+        "holystaff": 0.15,
+        "meat_chicken": 0.1,
+        "meat_sheep": 0.1,
+        "plate_helmet": 0.15,
+        "spear": 0.15,
+        "wood": 0.4
+      },
+      "refining_bonus": 0.18
+    },
+    "Lymhurst": {
+      "cluster_id": "1000",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "arcanestaff": 0.15,
+        "bow": 0.15,
+        "fiber": 0.4,
+        "leather_helmet": 0.15,
+        "leather_shoes": 0.15,
+        "meat_goose": 0.1,
+        "sword": 0.15
+      },
+      "refining_bonus": 0.18
+    },
+    "Martlock": {
+      "cluster_id": "2000",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "cloth_shoes": 0.15,
+        "crossbow": 0.15,
+        "cursestaff": 0.15,
+        "dagger": 0.15,
+        "meat_goat": 0.1,
+        "plate_armor": 0.15,
+        "rock": 0.4
+      },
+      "refining_bonus": 0.18
+    },
+    "Thetford": {
+      "cluster_id": "0000",
+      "crafting_bonus": 0.18,
+      "modifiers": {
+        "cloth_helmet": 0.15,
+        "firestaff": 0.15,
+        "leather_armor": 0.15,
+        "mace": 0.15,
+        "meat_pig": 0.1,
+        "naturestaff": 0.15,
+        "ore": 0.4
+      },
+      "refining_bonus": 0.18
+    }
+  },
+  "city_cluster_ids": {
+    "Brecilien": "5000",
+    "Bridgewatch": "3004",
+    "Caerleon": "3003",
+    "Fort Sterling": "4000",
+    "Lymhurst": "1000",
+    "Martlock": "2000",
+    "Thetford": "0000"
+  },
+  "focus_production_bonus": 0.59,
+  "refining_categories": [
+    "fiber",
+    "hide",
+    "ore",
+    "rock",
+    "wood"
+  ]
+}
