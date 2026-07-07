@@ -21,6 +21,7 @@ ALLOWED_SUFFIX_PREFIXES = (
     "CAPE",
     "MOUNT_",
     "TOOL_",
+    "ARTEFACT_",
     "ORE",
     "WOOD",
     "ROCK",

@@ -3143,6 +3143,606 @@
     "en": "Adept's Graveguard Armor",
     "es": "Armadura de guardatumbas del iniciado"
   },
+  "T4_ARTEFACT_2H_ARCANESTAFF_CRYSTAL": {
+    "en": "Adept's Startouched Crystal",
+    "es": "Cristal estrellado del iniciado"
+  },
+  "T4_ARTEFACT_2H_ARCANESTAFF_HELL": {
+    "en": "Adept's Occult Orb",
+    "es": "Orbe oculto del iniciado"
+  },
+  "T4_ARTEFACT_2H_ARCANE_RINGPAIR_AVALON": {
+    "en": "Adept's Hypnotic Harmonic Ring",
+    "es": "Anillo armónico hipnótico del iniciado"
+  },
+  "T4_ARTEFACT_2H_AXE_AVALON": {
+    "en": "Adept's Avalonian Battle Memoir",
+    "es": "Recuerdos de batalla avalonianos del iniciado"
+  },
+  "T4_ARTEFACT_2H_BOW_AVALON": {
+    "en": "Adept's Immaculately Crafted Riser",
+    "es": "Tubo fabricado inmaculado del iniciado"
+  },
+  "T4_ARTEFACT_2H_BOW_CRYSTAL": {
+    "en": "Adept's Windborne Crystal",
+    "es": "Cristal de Viento del Iniciado"
+  },
+  "T4_ARTEFACT_2H_BOW_HELL": {
+    "en": "Adept's Demonic Arrowheads",
+    "es": "Puntas de flecha demoníacas del iniciado"
+  },
+  "T4_ARTEFACT_2H_BOW_KEEPER": {
+    "en": "Adept's Carved Bone",
+    "es": "Hueso tallado del iniciado"
+  },
+  "T4_ARTEFACT_2H_CLAYMORE_AVALON": {
+    "en": "Adept's Remnants of the Old King",
+    "es": "Restos del viejo rey del iniciado"
+  },
+  "T4_ARTEFACT_2H_CLEAVER_HELL": {
+    "en": "Adept's Demonic Blade",
+    "es": "Hoja demoníaca del iniciado"
+  },
+  "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA": {
+    "en": "Adept's Reinforced Morgana Pole",
+    "es": "Palo de Morgana reforzado del iniciado"
+  },
+  "T4_ARTEFACT_2H_CROSSBOWLARGE_MORGANA": {
+    "en": "Adept's Alluring Bolts",
+    "es": "Saetas tentadoras del iniciado"
+  },
+  "T4_ARTEFACT_2H_CROSSBOW_CANNON_AVALON": {
+    "en": "Adept's Humming Avalonian Whirligig",
+    "es": "Veleta de zumbido avaloniano del iniciado"
+  },
+  "T4_ARTEFACT_2H_CURSEDSTAFF_MORGANA": {
+    "en": "Adept's Bloodforged Catalyst",
+    "es": "Catalizador forjado con sangre del iniciado"
+  },
+  "T4_ARTEFACT_2H_DAGGERPAIR_CRYSTAL": {
+    "en": "Adept's Death-Touched Crystal",
+    "es": "Cristal mortífero del iniciado"
+  },
+  "T4_ARTEFACT_2H_DAGGER_KATAR_AVALON": {
+    "en": "Adept's Bloodstained Antiquities",
+    "es": "Antigüedades sangrientas del iniciado"
+  },
+  "T4_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL": {
+    "en": "Adept's Mirage Crystal",
+    "es": "Cristal miraje del iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALAXE_KEEPER": {
+    "en": "Adept's Keeper Axeheads",
+    "es": "Cabezas de hacha de guardián del iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALCROSSBOW_CRYSTAL": {
+    "en": "Adept's Arclight Crystal",
+    "es": "Cristal de Luz del Iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALCROSSBOW_HELL": {
+    "en": "Adept's Hellish Bolts",
+    "es": "Saetas diabólicas del iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALHAMMER_HELL": {
+    "en": "Adept's Hellish Hammer Heads",
+    "es": "Cabezas de martillo diabólicas del iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALMACE_AVALON": {
+    "en": "Adept's Broken Oaths",
+    "es": "Juramentos rotos del iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALSCIMITAR_UNDEAD": {
+    "en": "Adept's Cursed Blades",
+    "es": "Hojas malditas del iniciado"
+  },
+  "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD": {
+    "en": "Adept's Ghastly Blades",
+    "es": "Hojas abominables del iniciado"
+  },
+  "T4_ARTEFACT_2H_ENIGMATICORB_MORGANA": {
+    "en": "Adept's Possessed Catalyst",
+    "es": "Catalizador poseído del iniciado"
+  },
+  "T4_ARTEFACT_2H_FIRESTAFF_HELL": {
+    "en": "Adept's Burning Orb",
+    "es": "Orbe ardiente del iniciado"
+  },
+  "T4_ARTEFACT_2H_FIRE_RINGPAIR_AVALON": {
+    "en": "Adept's Glowing Harmonic Ring",
+    "es": "Anillo armónico brillante del iniciado"
+  },
+  "T4_ARTEFACT_2H_FROSTSTAFF_CRYSTAL": {
+    "en": "Adept's Icy Crystal",
+    "es": "Cristal álgido del iniciado"
+  },
+  "T4_ARTEFACT_2H_GLAIVE_CRYSTAL": {
+    "en": "Adept's Rift Crystal",
+    "es": "Cristal fisurante del iniciado"
+  },
+  "T4_ARTEFACT_2H_HALBERD_MORGANA": {
+    "en": "Adept's Morgana Halberd Head",
+    "es": "Cabeza de alabarda de Morgana del iniciado"
+  },
+  "T4_ARTEFACT_2H_HAMMER_AVALON": {
+    "en": "Adept's Massive Metallic Hand",
+    "es": "Mano metálica masiva del iniciado"
+  },
+  "T4_ARTEFACT_2H_HAMMER_CRYSTAL": {
+    "en": "Adept's Crackling Crystal",
+    "es": "Cristal Crepitante del Iniciado"
+  },
+  "T4_ARTEFACT_2H_HAMMER_UNDEAD": {
+    "en": "Adept's Ancient Hammer Head",
+    "es": "Cabeza de martillo antigua del iniciado"
+  },
+  "T4_ARTEFACT_2H_HARPOON_HELL": {
+    "en": "Adept's Infernal Harpoon Tip",
+    "es": "Punta de arpón infernal del iniciado"
+  },
+  "T4_ARTEFACT_2H_HOLYSTAFF_CRYSTAL": {
+    "en": "Adept's Exalted Crystal",
+    "es": "Cristal exaltado del iniciado"
+  },
+  "T4_ARTEFACT_2H_HOLYSTAFF_HELL": {
+    "en": "Adept's Infernal Scroll",
+    "es": "Pergamino infernal del iniciado"
+  },
+  "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD": {
+    "en": "Adept's Ghastly Scroll",
+    "es": "Pergamino abominable del iniciado"
+  },
+  "T4_ARTEFACT_2H_ICECRYSTAL_UNDEAD": {
+    "en": "Adept's Cursed Frozen Crystal",
+    "es": "Cristal congelado maldito del iniciado"
+  },
+  "T4_ARTEFACT_2H_ICEGAUNTLETS_HELL": {
+    "en": "Adept's Icicle Orb",
+    "es": "Orbe de carámbanos del iniciado"
+  },
+  "T4_ARTEFACT_2H_INFERNOSTAFF_MORGANA": {
+    "en": "Adept's Unholy Scroll",
+    "es": "Pergamino profano del iniciado"
+  },
+  "T4_ARTEFACT_2H_IRONGAUNTLETS_HELL": {
+    "en": "Adept's Black Leather",
+    "es": "Cuero negro del iniciado"
+  },
+  "T4_ARTEFACT_2H_KNUCKLES_AVALON": {
+    "en": "Adept's Damaged Avalonian Gauntlet",
+    "es": "Guantelete avaloniano dañado del iniciado"
+  },
+  "T4_ARTEFACT_2H_KNUCKLES_CRYSTAL": {
+    "en": "Adept's Pulsating Crystal",
+    "es": "Cristal Pulsante del Iniciado"
+  },
+  "T4_ARTEFACT_2H_KNUCKLES_HELL": {
+    "en": "Adept's Severed Demonic Horns",
+    "es": "Cuernos demoníacos rotos del iniciado"
+  },
+  "T4_ARTEFACT_2H_KNUCKLES_KEEPER": {
+    "en": "Adept's Ursine Guardian Remains",
+    "es": "Restos de guardián osuno del iniciado"
+  },
+  "T4_ARTEFACT_2H_KNUCKLES_MORGANA": {
+    "en": "Adept's Warped Raven Plate",
+    "es": "Placa de cuervo deforme del iniciado"
+  },
+  "T4_ARTEFACT_2H_LONGBOW_UNDEAD": {
+    "en": "Adept's Ghastly Arrows",
+    "es": "Flechas abominables del iniciado"
+  },
+  "T4_ARTEFACT_2H_MACE_MORGANA": {
+    "en": "Adept's Imbued Mace Head",
+    "es": "Cabeza de maza imbuida del iniciado"
+  },
+  "T4_ARTEFACT_2H_NATURESTAFF_HELL": {
+    "en": "Adept's Symbol of Blight",
+    "es": "Símbolo de infortunio del iniciado"
+  },
+  "T4_ARTEFACT_2H_NATURESTAFF_KEEPER": {
+    "en": "Adept's Preserved Log",
+    "es": "Tronco preservado del iniciado"
+  },
+  "T4_ARTEFACT_2H_QUARTERSTAFF_AVALON": {
+    "en": "Adept's Timeworn Walking Staff",
+    "es": "Bastón desgastado del iniciado"
+  },
+  "T4_ARTEFACT_2H_RAM_KEEPER": {
+    "en": "Adept's Engraved Log",
+    "es": "Tronco grabado del iniciado"
+  },
+  "T4_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD": {
+    "en": "Adept's Lost Crossbow Mechanism",
+    "es": "Mecanismo perdido de ballesta del iniciado"
+  },
+  "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER": {
+    "en": "Adept's Preserved Rocks",
+    "es": "Rocas preservadas del iniciado"
+  },
+  "T4_ARTEFACT_2H_SCYTHE_CRYSTAL": {
+    "en": "Adept's Edged Crystal",
+    "es": "Cristal afilado del iniciado"
+  },
+  "T4_ARTEFACT_2H_SCYTHE_HELL": {
+    "en": "Adept's Hellish Sicklehead",
+    "es": "Cabeza de hoz diabólica del iniciado"
+  },
+  "T4_ARTEFACT_2H_SHAPESHIFTER_AVALON": {
+    "en": "Adept's Dawnbird Remnant",
+    "es": "Restos de ave del alba del iniciado"
+  },
+  "T4_ARTEFACT_2H_SHAPESHIFTER_CRYSTAL": {
+    "en": "Adept's Serpent Crystal",
+    "es": "Cristal Serpentino del Iniciado"
+  },
+  "T4_ARTEFACT_2H_SHAPESHIFTER_HELL": {
+    "en": "Adept's Hellfire Imp Remnant",
+    "es": "Restos de diablillo de fuego infernal del iniciado"
+  },
+  "T4_ARTEFACT_2H_SHAPESHIFTER_KEEPER": {
+    "en": "Adept's Runestone Golem Remnant",
+    "es": "Restos de gólem de piedra rúnica del iniciado"
+  },
+  "T4_ARTEFACT_2H_SHAPESHIFTER_MORGANA": {
+    "en": "Adept's Werewolf Remnant",
+    "es": "Restos de hombre lobo del iniciado"
+  },
+  "T4_ARTEFACT_2H_SKULLORB_HELL": {
+    "en": "Adept's Cursed Jawbone",
+    "es": "Quijada maldita del iniciado"
+  },
+  "T4_ARTEFACT_2H_TRIDENT_UNDEAD": {
+    "en": "Adept's Cursed Barbs",
+    "es": "Pinchos malditos del iniciado"
+  },
+  "T4_ARTEFACT_2H_TWINSCYTHE_HELL": {
+    "en": "Adept's Hellish Sicklehead Pair",
+    "es": "Par de cabezas de hoz diabólica del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_CLOTH_AVALON": {
+    "en": "Adept's Sanctified Belt",
+    "es": "Cinturón santificado del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_CLOTH_FEY": {
+    "en": "Adept's Fey Dorsal Wing",
+    "es": "Ala dorsal feérica del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_CLOTH_HELL": {
+    "en": "Adept's Infernal Cloth Folds",
+    "es": "Pliegues de tela infernal del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_CLOTH_KEEPER": {
+    "en": "Adept's Druidic Feathers",
+    "es": "Plumas druidas del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_CLOTH_MORGANA": {
+    "en": "Adept's Alluring Amulet",
+    "es": "Amuleto tentador del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_LEATHER_AVALON": {
+    "en": "Adept's Augured Sash",
+    "es": "Faja augurada del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_LEATHER_FEY": {
+    "en": "Adept's Untarnished Griffin Feathers",
+    "es": "Plumas de grifo impolutas del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_LEATHER_HELL": {
+    "en": "Adept's Demonhide Leather",
+    "es": "Cuero de piel de demonio del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_LEATHER_MORGANA": {
+    "en": "Adept's Imbued Leather Folds",
+    "es": "Pliegues de cuero imbuidos del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_LEATHER_UNDEAD": {
+    "en": "Adept's Ghastly Leather",
+    "es": "Cuero abominable del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_PLATE_AVALON": {
+    "en": "Adept's Exalted Plating",
+    "es": "Enchapado exaltado del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_PLATE_FEY": {
+    "en": "Adept's Veilweaver Carapace",
+    "es": "Caparazón de tejevelos del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_PLATE_HELL": {
+    "en": "Adept's Demonic Plates",
+    "es": "Placas demoníacas del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_PLATE_KEEPER": {
+    "en": "Adept's Preserved Animal Fur",
+    "es": "Pieles de animal preservadas del iniciado"
+  },
+  "T4_ARTEFACT_ARMOR_PLATE_UNDEAD": {
+    "en": "Adept's Ancient Chain Rings",
+    "es": "Cota de malla antigua del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_CLOTH_AVALON": {
+    "en": "Adept's Sanctified Mask",
+    "es": "Máscara santificada del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_CLOTH_FEY": {
+    "en": "Adept's Intact Fey Fibula",
+    "es": "Fíbula feérica intacta del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_CLOTH_HELL": {
+    "en": "Adept's Infernal Cloth Visor",
+    "es": "Visera de tela infernal del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_CLOTH_KEEPER": {
+    "en": "Adept's Druidic Preserved Beak",
+    "es": "Pico preservado druida del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_CLOTH_MORGANA": {
+    "en": "Adept's Alluring Padding",
+    "es": "Acolchado tentador del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_LEATHER_AVALON": {
+    "en": "Adept's Augured Padding",
+    "es": "Relleno Augurado del Iniciado"
+  },
+  "T4_ARTEFACT_HEAD_LEATHER_FEY": {
+    "en": "Adept's Flawless Griffin Beak",
+    "es": "Pico de grifo impecable del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_LEATHER_HELL": {
+    "en": "Adept's Demonhide Padding",
+    "es": "Acolchado de piel de demonio del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_LEATHER_MORGANA": {
+    "en": "Adept's Imbued Visor",
+    "es": "Visera imbuida del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_LEATHER_UNDEAD": {
+    "en": "Adept's Ghastly Visor",
+    "es": "Visera abominable del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_PLATE_AVALON": {
+    "en": "Adept's Exalted Visor",
+    "es": "Visera exaltada del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_PLATE_FEY": {
+    "en": "Adept's Veilweaver Mandibles",
+    "es": "Mandíbulas de tejevelos del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_PLATE_HELL": {
+    "en": "Adept's Demonic Scraps",
+    "es": "Esquirlas demoníacas del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_PLATE_KEEPER": {
+    "en": "Adept's Carved Skull Padding",
+    "es": "Acolchado de calavera tallada del iniciado"
+  },
+  "T4_ARTEFACT_HEAD_PLATE_UNDEAD": {
+    "en": "Adept's Ancient Padding",
+    "es": "Acolchado antiguo del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD": {
+    "en": "Adept's Lost Arcane Crystal",
+    "es": "Cristal arcano perdido del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_CURSEDSTAFF_AVALON": {
+    "en": "Adept's Fractured Opaque Orb",
+    "es": "Orbe opaco fracturado del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_CURSEDSTAFF_CRYSTAL": {
+    "en": "Adept's Rotten Crystal",
+    "es": "Cristal Putrefacto del Iniciado"
+  },
+  "T4_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD": {
+    "en": "Adept's Lost Cursed Crystal",
+    "es": "Cristal maldito perdido del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_DAGGER_HELL": {
+    "en": "Adept's Broken Demonic Fang",
+    "es": "Colmillo demoníaco roto del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_FIRESTAFF_CRYSTAL": {
+    "en": "Adept's Pyreheart Crystal",
+    "es": "Cristal de Corazón de Pira del Iniciado"
+  },
+  "T4_ARTEFACT_MAIN_FIRESTAFF_KEEPER": {
+    "en": "Adept's Wildfire Orb",
+    "es": "Orbe de fuego incontrolable del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_FROSTSTAFF_AVALON": {
+    "en": "Adept's Chilled Crystalline Shard",
+    "es": "Fragmento cristalino helado del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_FROSTSTAFF_KEEPER": {
+    "en": "Adept's Hoarfrost Orb",
+    "es": "Orbe de escarcha del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_HOLYSTAFF_AVALON": {
+    "en": "Adept's Messianic Curio",
+    "es": "Rareza mesiánica del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA": {
+    "en": "Adept's Possessed Scroll",
+    "es": "Pergamino poseído del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_MACE_CRYSTAL": {
+    "en": "Adept's Dreadstorm Crystal",
+    "es": "Cristal de la tormenta del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_MACE_HELL": {
+    "en": "Adept's Infernal Mace Head",
+    "es": "Cabeza de maza infernal del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_NATURESTAFF_AVALON": {
+    "en": "Adept's Uprooted Perennial Sapling",
+    "es": "Plántula desarraigada perenne del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_NATURESTAFF_CRYSTAL": {
+    "en": "Adept's Forged Crystal",
+    "es": "Cristal Forjado del Iniciado"
+  },
+  "T4_ARTEFACT_MAIN_NATURESTAFF_KEEPER": {
+    "en": "Adept's Druidic Inscriptions",
+    "es": "Inscripciones de druida del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_RAPIER_MORGANA": {
+    "en": "Adept's Hardened Debole",
+    "es": "Punta endurecida del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_ROCKMACE_KEEPER": {
+    "en": "Adept's Runed Rock",
+    "es": "Roca rúnica del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_SCIMITAR_MORGANA": {
+    "en": "Adept's Bloodforged Blade",
+    "es": "Hoja forjada con sangre del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_SPEAR_KEEPER": {
+    "en": "Adept's Keeper Spearhead",
+    "es": "Cabeza de lanza de guardián del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_SPEAR_LANCE_AVALON": {
+    "en": "Adept's Ruined Ancestral Vamplate",
+    "es": "Vamplate ancestral arruinado del iniciado"
+  },
+  "T4_ARTEFACT_MAIN_SWORD_CRYSTAL": {
+    "en": "Adept's Infinite Crystal",
+    "es": "Cristal infinito del iniciado"
+  },
+  "T4_ARTEFACT_OFF_CENSER_AVALON": {
+    "en": "Adept's Severed Celestial Keepsake",
+    "es": "Recuerdo celestial roto del iniciado"
+  },
+  "T4_ARTEFACT_OFF_DEMONSKULL_HELL": {
+    "en": "Adept's Demonic Jawbone",
+    "es": "Quijada demoníaca del iniciado"
+  },
+  "T4_ARTEFACT_OFF_HORN_KEEPER": {
+    "en": "Adept's Runed Horn",
+    "es": "Cuerno rúnico del iniciado"
+  },
+  "T4_ARTEFACT_OFF_JESTERCANE_HELL": {
+    "en": "Adept's Hellish Handle",
+    "es": "Empuñadura diabólica del iniciado"
+  },
+  "T4_ARTEFACT_OFF_LAMP_UNDEAD": {
+    "en": "Adept's Ghastly Candle",
+    "es": "Candil abominable del iniciado"
+  },
+  "T4_ARTEFACT_OFF_ORB_MORGANA": {
+    "en": "Adept's Alluring Crystal",
+    "es": "Cristal tentador del iniciado"
+  },
+  "T4_ARTEFACT_OFF_SHIELD_AVALON": {
+    "en": "Adept's Crushed Avalonian Heirloom",
+    "es": "Reliquia avaloniana destruida del iniciado"
+  },
+  "T4_ARTEFACT_OFF_SHIELD_CRYSTAL": {
+    "en": "Adept's Unbreakable Crystal",
+    "es": "Cristal Inquebrantable del Iniciado"
+  },
+  "T4_ARTEFACT_OFF_SHIELD_HELL": {
+    "en": "Adept's Infernal Shield Core",
+    "es": "Núcleo de escudo infernal del iniciado"
+  },
+  "T4_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA": {
+    "en": "Adept's Bloodforged Spikes",
+    "es": "Púas forjadas con sangre del iniciado"
+  },
+  "T4_ARTEFACT_OFF_TALISMAN_AVALON": {
+    "en": "Adept's Shattered Avalonian Memento",
+    "es": "Recuerdo avaloniano destrozado del iniciado"
+  },
+  "T4_ARTEFACT_OFF_TOME_CRYSTAL": {
+    "en": "Adept's Timelocked Crystal",
+    "es": "Cristal Cronoestático del Iniciado"
+  },
+  "T4_ARTEFACT_OFF_TORCH_CRYSTAL": {
+    "en": "Adept's Blueflame Crystal",
+    "es": "Cristal Llamazul del Iniciado"
+  },
+  "T4_ARTEFACT_OFF_TOTEM_KEEPER": {
+    "en": "Adept's Inscribed Stone",
+    "es": "Piedra inscrita del iniciado"
+  },
+  "T4_ARTEFACT_OFF_TOWERSHIELD_UNDEAD": {
+    "en": "Adept's Ancient Shield Core",
+    "es": "Núcleo de escudo antiguo del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_CLOTH_AVALON": {
+    "en": "Adept's Sanctified Bindings",
+    "es": "Ataduras santificadas del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_CLOTH_FEY": {
+    "en": "Adept's Fey Dragonscales",
+    "es": "Escamas de dragón feéricas del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_CLOTH_HELL": {
+    "en": "Adept's Infernal Cloth Bindings",
+    "es": "Ataduras de tela infernal del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_CLOTH_KEEPER": {
+    "en": "Adept's Druidic Bindings",
+    "es": "Ataduras druidas del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_CLOTH_MORGANA": {
+    "en": "Adept's Alluring Bindings",
+    "es": "Ataduras tentadoras del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_LEATHER_AVALON": {
+    "en": "Adept's Augured Fasteners",
+    "es": "Sujetadores augurados del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_LEATHER_FEY": {
+    "en": "Adept's Griffin Underfur",
+    "es": "Pelaje de grifo del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_LEATHER_HELL": {
+    "en": "Adept's Demonhide Bindings",
+    "es": "Ataduras de piel de demonio del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_LEATHER_MORGANA": {
+    "en": "Adept's Imbued Soles",
+    "es": "Suelas imbuidas del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_LEATHER_UNDEAD": {
+    "en": "Adept's Ghastly Bindings",
+    "es": "Ataduras abominables del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_PLATE_AVALON": {
+    "en": "Adept's Exalted Greave",
+    "es": "Greba exaltada del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_PLATE_FEY": {
+    "en": "Adept's Veilweaver Claws",
+    "es": "Garras de tejevelos del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_PLATE_HELL": {
+    "en": "Adept's Demonic Filling",
+    "es": "Relleno demoníaco del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_PLATE_KEEPER": {
+    "en": "Adept's Inscribed Bindings",
+    "es": "Ataduras inscritas del iniciado"
+  },
+  "T4_ARTEFACT_SHOES_PLATE_UNDEAD": {
+    "en": "Adept's Ancient Bindings",
+    "es": "Ataduras antiguas del iniciado"
+  },
+  "T4_ARTEFACT_TOKEN_FAVOR_1": {
+    "en": "Adept's Crystallized Spirit",
+    "es": "Espíritu cristalizado del iniciado"
+  },
+  "T4_ARTEFACT_TOKEN_FAVOR_2": {
+    "en": "Adept's Crystallized Dread",
+    "es": "Terror cristalizado del iniciado"
+  },
+  "T4_ARTEFACT_TOKEN_FAVOR_3": {
+    "en": "Adept's Crystallized Magic",
+    "es": "Magia cristalizada del iniciado"
+  },
+  "T4_ARTEFACT_TOKEN_FAVOR_4": {
+    "en": "Adept's Crystallized Divinity",
+    "es": "Divinidad cristalizada del iniciado"
+  },
   "T4_BAG": {
     "en": "Adept's Bag",
     "es": "Bolsa del iniciado"
@@ -8814,6 +9414,606 @@
   "T5_ARMOR_PLATE_UNDEAD@4": {
     "en": "Expert's Graveguard Armor",
     "es": "Armadura de guardatumbas del experto"
+  },
+  "T5_ARTEFACT_2H_ARCANESTAFF_CRYSTAL": {
+    "en": "Expert's Startouched Crystal",
+    "es": "Cristal estrellado del experto"
+  },
+  "T5_ARTEFACT_2H_ARCANESTAFF_HELL": {
+    "en": "Expert's Occult Orb",
+    "es": "Orbe oculto del experto"
+  },
+  "T5_ARTEFACT_2H_ARCANE_RINGPAIR_AVALON": {
+    "en": "Expert's Hypnotic Harmonic Ring",
+    "es": "Anillo armónico hipnótico del experto"
+  },
+  "T5_ARTEFACT_2H_AXE_AVALON": {
+    "en": "Expert's Avalonian Battle Memoir",
+    "es": "Recuerdos de batalla avalonianos del experto"
+  },
+  "T5_ARTEFACT_2H_BOW_AVALON": {
+    "en": "Expert's Immaculately Crafted Riser",
+    "es": "Tubo fabricado inmaculado del experto"
+  },
+  "T5_ARTEFACT_2H_BOW_CRYSTAL": {
+    "en": "Expert's Windborne Crystal",
+    "es": "Cristal de Viento del Experto"
+  },
+  "T5_ARTEFACT_2H_BOW_HELL": {
+    "en": "Expert's Demonic Arrowheads",
+    "es": "Puntas de flecha demoníacas del experto"
+  },
+  "T5_ARTEFACT_2H_BOW_KEEPER": {
+    "en": "Expert's Carved Bone",
+    "es": "Hueso tallado del experto"
+  },
+  "T5_ARTEFACT_2H_CLAYMORE_AVALON": {
+    "en": "Expert's Remnants of the Old King",
+    "es": "Restos del viejo rey del experto"
+  },
+  "T5_ARTEFACT_2H_CLEAVER_HELL": {
+    "en": "Expert's Demonic Blade",
+    "es": "Hoja demoníaca del experto"
+  },
+  "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA": {
+    "en": "Expert's Reinforced Morgana Pole",
+    "es": "Palo de Morgana reforzado del experto"
+  },
+  "T5_ARTEFACT_2H_CROSSBOWLARGE_MORGANA": {
+    "en": "Expert's Alluring Bolts",
+    "es": "Saetas tentadoras del experto"
+  },
+  "T5_ARTEFACT_2H_CROSSBOW_CANNON_AVALON": {
+    "en": "Expert's Humming Avalonian Whirligig",
+    "es": "Veleta de zumbido avaloniano del experto"
+  },
+  "T5_ARTEFACT_2H_CURSEDSTAFF_MORGANA": {
+    "en": "Expert's Bloodforged Catalyst",
+    "es": "Catalizador forjado con sangre del experto"
+  },
+  "T5_ARTEFACT_2H_DAGGERPAIR_CRYSTAL": {
+    "en": "Expert's Death-Touched Crystal",
+    "es": "Cristal mortífero del experto"
+  },
+  "T5_ARTEFACT_2H_DAGGER_KATAR_AVALON": {
+    "en": "Expert's Bloodstained Antiquities",
+    "es": "Antigüedades sangrientas del experto"
+  },
+  "T5_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL": {
+    "en": "Expert's Mirage Crystal",
+    "es": "Cristal miraje del experto"
+  },
+  "T5_ARTEFACT_2H_DUALAXE_KEEPER": {
+    "en": "Expert's Keeper Axeheads",
+    "es": "Cabezas de hacha de guardián del experto"
+  },
+  "T5_ARTEFACT_2H_DUALCROSSBOW_CRYSTAL": {
+    "en": "Expert's Arclight Crystal",
+    "es": "Cristal de Luz del Experto"
+  },
+  "T5_ARTEFACT_2H_DUALCROSSBOW_HELL": {
+    "en": "Expert's Hellish Bolts",
+    "es": "Saetas diabólicas del experto"
+  },
+  "T5_ARTEFACT_2H_DUALHAMMER_HELL": {
+    "en": "Expert's Hellish Hammer Heads",
+    "es": "Cabezas de martillo diabólicas del experto"
+  },
+  "T5_ARTEFACT_2H_DUALMACE_AVALON": {
+    "en": "Expert's Broken Oaths",
+    "es": "Juramentos rotos del experto"
+  },
+  "T5_ARTEFACT_2H_DUALSCIMITAR_UNDEAD": {
+    "en": "Expert's Cursed Blades",
+    "es": "Hojas malditas del experto"
+  },
+  "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD": {
+    "en": "Expert's Ghastly Blades",
+    "es": "Hojas abominables del experto"
+  },
+  "T5_ARTEFACT_2H_ENIGMATICORB_MORGANA": {
+    "en": "Expert's Possessed Catalyst",
+    "es": "Catalizador poseído del experto"
+  },
+  "T5_ARTEFACT_2H_FIRESTAFF_HELL": {
+    "en": "Expert's Burning Orb",
+    "es": "Orbe ardiente del experto"
+  },
+  "T5_ARTEFACT_2H_FIRE_RINGPAIR_AVALON": {
+    "en": "Expert's Glowing Harmonic Ring",
+    "es": "Anillo armónico brillante del experto"
+  },
+  "T5_ARTEFACT_2H_FROSTSTAFF_CRYSTAL": {
+    "en": "Expert's Icy Crystal",
+    "es": "Cristal álgido del experto"
+  },
+  "T5_ARTEFACT_2H_GLAIVE_CRYSTAL": {
+    "en": "Expert's Rift Crystal",
+    "es": "Cristal fisurante del experto"
+  },
+  "T5_ARTEFACT_2H_HALBERD_MORGANA": {
+    "en": "Expert's Morgana Halberd Head",
+    "es": "Cabeza de alabarda de Morgana del experto"
+  },
+  "T5_ARTEFACT_2H_HAMMER_AVALON": {
+    "en": "Expert's Massive Metallic Hand",
+    "es": "Mano metálica masiva del experto"
+  },
+  "T5_ARTEFACT_2H_HAMMER_CRYSTAL": {
+    "en": "Expert's Crackling Crystal",
+    "es": "Cristal Crepitante del Experto"
+  },
+  "T5_ARTEFACT_2H_HAMMER_UNDEAD": {
+    "en": "Expert's Ancient Hammer Head",
+    "es": "Cabeza de martillo antigua del experto"
+  },
+  "T5_ARTEFACT_2H_HARPOON_HELL": {
+    "en": "Expert's Infernal Harpoon Tip",
+    "es": "Punta de arpón infernal del experto"
+  },
+  "T5_ARTEFACT_2H_HOLYSTAFF_CRYSTAL": {
+    "en": "Expert's Exalted Crystal",
+    "es": "Cristal exaltado del experto"
+  },
+  "T5_ARTEFACT_2H_HOLYSTAFF_HELL": {
+    "en": "Expert's Infernal Scroll",
+    "es": "Pergamino infernal del experto"
+  },
+  "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD": {
+    "en": "Expert's Ghastly Scroll",
+    "es": "Pergamino abominable del experto"
+  },
+  "T5_ARTEFACT_2H_ICECRYSTAL_UNDEAD": {
+    "en": "Expert's Cursed Frozen Crystal",
+    "es": "Cristal congelado maldito del experto"
+  },
+  "T5_ARTEFACT_2H_ICEGAUNTLETS_HELL": {
+    "en": "Expert's Icicle Orb",
+    "es": "Orbe de carámbanos del experto"
+  },
+  "T5_ARTEFACT_2H_INFERNOSTAFF_MORGANA": {
+    "en": "Expert's Unholy Scroll",
+    "es": "Pergamino profano del experto"
+  },
+  "T5_ARTEFACT_2H_IRONGAUNTLETS_HELL": {
+    "en": "Expert's Black Leather",
+    "es": "Cuero negro del experto"
+  },
+  "T5_ARTEFACT_2H_KNUCKLES_AVALON": {
+    "en": "Expert's Damaged Avalonian Gauntlet",
+    "es": "Guantelete avaloniano dañado del experto"
+  },
+  "T5_ARTEFACT_2H_KNUCKLES_CRYSTAL": {
+    "en": "Expert's Pulsating Crystal",
+    "es": "Cristal Pulsante del Experto"
+  },
+  "T5_ARTEFACT_2H_KNUCKLES_HELL": {
+    "en": "Expert's Severed Demonic Horns",
+    "es": "Cuernos demoníacos rotos del experto"
+  },
+  "T5_ARTEFACT_2H_KNUCKLES_KEEPER": {
+    "en": "Expert's Ursine Guardian Remains",
+    "es": "Restos de guardián osuno del experto"
+  },
+  "T5_ARTEFACT_2H_KNUCKLES_MORGANA": {
+    "en": "Expert's Warped Raven Plate",
+    "es": "Placa de cuervo deforme del experto"
+  },
+  "T5_ARTEFACT_2H_LONGBOW_UNDEAD": {
+    "en": "Expert's Ghastly Arrows",
+    "es": "Flechas abominables del experto"
+  },
+  "T5_ARTEFACT_2H_MACE_MORGANA": {
+    "en": "Expert's Imbued Mace Head",
+    "es": "Cabeza de maza imbuida del experto"
+  },
+  "T5_ARTEFACT_2H_NATURESTAFF_HELL": {
+    "en": "Expert's Symbol of Blight",
+    "es": "Símbolo de infortunio del experto"
+  },
+  "T5_ARTEFACT_2H_NATURESTAFF_KEEPER": {
+    "en": "Expert's Preserved Log",
+    "es": "Tronco preservado del experto"
+  },
+  "T5_ARTEFACT_2H_QUARTERSTAFF_AVALON": {
+    "en": "Expert's Timeworn Walking Staff",
+    "es": "Bastón desgastado del experto"
+  },
+  "T5_ARTEFACT_2H_RAM_KEEPER": {
+    "en": "Expert's Engraved Log",
+    "es": "Tronco grabado del experto"
+  },
+  "T5_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD": {
+    "en": "Expert's Lost Crossbow Mechanism",
+    "es": "Mecanismo perdido de ballesta del experto"
+  },
+  "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER": {
+    "en": "Expert's Preserved Rocks",
+    "es": "Rocas preservadas del experto"
+  },
+  "T5_ARTEFACT_2H_SCYTHE_CRYSTAL": {
+    "en": "Expert's Edged Crystal",
+    "es": "Cristal afilado del experto"
+  },
+  "T5_ARTEFACT_2H_SCYTHE_HELL": {
+    "en": "Expert's Hellish Sicklehead",
+    "es": "Cabeza de hoz diabólica del experto"
+  },
+  "T5_ARTEFACT_2H_SHAPESHIFTER_AVALON": {
+    "en": "Expert's Dawnbird Remnant",
+    "es": "Restos de ave del alba del experto"
+  },
+  "T5_ARTEFACT_2H_SHAPESHIFTER_CRYSTAL": {
+    "en": "Expert's Serpent Crystal",
+    "es": "Cristal Serpentino del Experto"
+  },
+  "T5_ARTEFACT_2H_SHAPESHIFTER_HELL": {
+    "en": "Expert's Hellfire Imp Remnant",
+    "es": "Restos de diablillo de fuego infernal del experto"
+  },
+  "T5_ARTEFACT_2H_SHAPESHIFTER_KEEPER": {
+    "en": "Expert's Runestone Golem Remnant",
+    "es": "Restos de gólem de piedra rúnica del experto"
+  },
+  "T5_ARTEFACT_2H_SHAPESHIFTER_MORGANA": {
+    "en": "Expert's Werewolf Remnant",
+    "es": "Restos de hombre lobo del experto"
+  },
+  "T5_ARTEFACT_2H_SKULLORB_HELL": {
+    "en": "Expert's Cursed Jawbone",
+    "es": "Quijada maldita del experto"
+  },
+  "T5_ARTEFACT_2H_TRIDENT_UNDEAD": {
+    "en": "Expert's Cursed Barbs",
+    "es": "Pinchos malditos del experto"
+  },
+  "T5_ARTEFACT_2H_TWINSCYTHE_HELL": {
+    "en": "Expert's Hellish Sicklehead Pair",
+    "es": "Par de cabezas de hoz diabólica del experto"
+  },
+  "T5_ARTEFACT_ARMOR_CLOTH_AVALON": {
+    "en": "Expert's Sanctified Belt",
+    "es": "Cinturón santificado del experto"
+  },
+  "T5_ARTEFACT_ARMOR_CLOTH_FEY": {
+    "en": "Expert's Fey Dorsal Wing",
+    "es": "Ala dorsal feérica del experto"
+  },
+  "T5_ARTEFACT_ARMOR_CLOTH_HELL": {
+    "en": "Expert's Infernal Cloth Folds",
+    "es": "Pliegues de tela infernal del experto"
+  },
+  "T5_ARTEFACT_ARMOR_CLOTH_KEEPER": {
+    "en": "Expert's Druidic Feathers",
+    "es": "Plumas druidas del experto"
+  },
+  "T5_ARTEFACT_ARMOR_CLOTH_MORGANA": {
+    "en": "Expert's Alluring Amulet",
+    "es": "Amuleto tentador del experto"
+  },
+  "T5_ARTEFACT_ARMOR_LEATHER_AVALON": {
+    "en": "Expert's Augured Sash",
+    "es": "Faja augurada del experto"
+  },
+  "T5_ARTEFACT_ARMOR_LEATHER_FEY": {
+    "en": "Expert's Untarnished Griffin Feathers",
+    "es": "Plumas de grifo impolutas del experto"
+  },
+  "T5_ARTEFACT_ARMOR_LEATHER_HELL": {
+    "en": "Expert's Demonhide Leather",
+    "es": "Cuero de piel de demonio del experto"
+  },
+  "T5_ARTEFACT_ARMOR_LEATHER_MORGANA": {
+    "en": "Expert's Imbued Leather Folds",
+    "es": "Pliegues de cuero imbuidos del experto"
+  },
+  "T5_ARTEFACT_ARMOR_LEATHER_UNDEAD": {
+    "en": "Expert's Ghastly Leather",
+    "es": "Cuero abominable del experto"
+  },
+  "T5_ARTEFACT_ARMOR_PLATE_AVALON": {
+    "en": "Expert's Exalted Plating",
+    "es": "Enchapado exaltado del experto"
+  },
+  "T5_ARTEFACT_ARMOR_PLATE_FEY": {
+    "en": "Expert's Veilweaver Carapace",
+    "es": "Caparazón de tejevelos del experto"
+  },
+  "T5_ARTEFACT_ARMOR_PLATE_HELL": {
+    "en": "Expert's Demonic Plates",
+    "es": "Placas demoníacas del experto"
+  },
+  "T5_ARTEFACT_ARMOR_PLATE_KEEPER": {
+    "en": "Expert's Preserved Animal Fur",
+    "es": "Pieles de animal preservadas del experto"
+  },
+  "T5_ARTEFACT_ARMOR_PLATE_UNDEAD": {
+    "en": "Expert's Ancient Chain Rings",
+    "es": "Cota de malla antigua del experto"
+  },
+  "T5_ARTEFACT_HEAD_CLOTH_AVALON": {
+    "en": "Expert's Sanctified Mask",
+    "es": "Máscara santificada del experto"
+  },
+  "T5_ARTEFACT_HEAD_CLOTH_FEY": {
+    "en": "Expert's Intact Fey Fibula",
+    "es": "Fíbula feérica intacta del experto"
+  },
+  "T5_ARTEFACT_HEAD_CLOTH_HELL": {
+    "en": "Expert's Infernal Cloth Visor",
+    "es": "Visera de tela infernal del experto"
+  },
+  "T5_ARTEFACT_HEAD_CLOTH_KEEPER": {
+    "en": "Expert's Druidic Preserved Beak",
+    "es": "Pico preservado druida del experto"
+  },
+  "T5_ARTEFACT_HEAD_CLOTH_MORGANA": {
+    "en": "Expert's Alluring Padding",
+    "es": "Acolchado tentador del experto"
+  },
+  "T5_ARTEFACT_HEAD_LEATHER_AVALON": {
+    "en": "Expert's Augured Padding",
+    "es": "Relleno Augurado del Experto"
+  },
+  "T5_ARTEFACT_HEAD_LEATHER_FEY": {
+    "en": "Expert's Flawless Griffin Beak",
+    "es": "Pico de grifo impecable del experto"
+  },
+  "T5_ARTEFACT_HEAD_LEATHER_HELL": {
+    "en": "Expert's Demonhide Padding",
+    "es": "Acolchado de piel de demonio del experto"
+  },
+  "T5_ARTEFACT_HEAD_LEATHER_MORGANA": {
+    "en": "Expert's Imbued Visor",
+    "es": "Visera imbuida del experto"
+  },
+  "T5_ARTEFACT_HEAD_LEATHER_UNDEAD": {
+    "en": "Expert's Ghastly Visor",
+    "es": "Visera abominable del experto"
+  },
+  "T5_ARTEFACT_HEAD_PLATE_AVALON": {
+    "en": "Expert's Exalted Visor",
+    "es": "Visor exaltado del experto"
+  },
+  "T5_ARTEFACT_HEAD_PLATE_FEY": {
+    "en": "Expert's Veilweaver Mandibles",
+    "es": "Mandíbulas de tejevelos del experto"
+  },
+  "T5_ARTEFACT_HEAD_PLATE_HELL": {
+    "en": "Expert's Demonic Scraps",
+    "es": "Esquirlas demoníacas del experto"
+  },
+  "T5_ARTEFACT_HEAD_PLATE_KEEPER": {
+    "en": "Expert's Carved Skull Padding",
+    "es": "Acolchado de calavera tallada del experto"
+  },
+  "T5_ARTEFACT_HEAD_PLATE_UNDEAD": {
+    "en": "Expert's Ancient Padding",
+    "es": "Acolchado antiguo del experto"
+  },
+  "T5_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD": {
+    "en": "Expert's Lost Arcane Crystal",
+    "es": "Cristal arcano perdido del experto"
+  },
+  "T5_ARTEFACT_MAIN_CURSEDSTAFF_AVALON": {
+    "en": "Expert's Fractured Opaque Orb",
+    "es": "Orbe opaco fracturado del experto"
+  },
+  "T5_ARTEFACT_MAIN_CURSEDSTAFF_CRYSTAL": {
+    "en": "Expert's Rotten Crystal",
+    "es": "Cristal Putrefacto del Experto"
+  },
+  "T5_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD": {
+    "en": "Expert's Lost Cursed Crystal",
+    "es": "Cristal maldito perdido del experto"
+  },
+  "T5_ARTEFACT_MAIN_DAGGER_HELL": {
+    "en": "Expert's Broken Demonic Fang",
+    "es": "Colmillo demoníaco roto del experto"
+  },
+  "T5_ARTEFACT_MAIN_FIRESTAFF_CRYSTAL": {
+    "en": "Expert's Pyreheart Crystal",
+    "es": "Cristal de Corazón de Pira del Experto"
+  },
+  "T5_ARTEFACT_MAIN_FIRESTAFF_KEEPER": {
+    "en": "Expert's Wildfire Orb",
+    "es": "Orbe de fuego incontrolable del experto"
+  },
+  "T5_ARTEFACT_MAIN_FROSTSTAFF_AVALON": {
+    "en": "Expert's Chilled Crystalline Shard",
+    "es": "Fragmento cristalino helado del experto"
+  },
+  "T5_ARTEFACT_MAIN_FROSTSTAFF_KEEPER": {
+    "en": "Expert's Hoarfrost Orb",
+    "es": "Orbe de escarcha del experto"
+  },
+  "T5_ARTEFACT_MAIN_HOLYSTAFF_AVALON": {
+    "en": "Expert's Messianic Curio",
+    "es": "Rareza mesiánica del experto"
+  },
+  "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA": {
+    "en": "Expert's Possessed Scroll",
+    "es": "Pergamino poseído del experto"
+  },
+  "T5_ARTEFACT_MAIN_MACE_CRYSTAL": {
+    "en": "Expert's Dreadstorm Crystal",
+    "es": "Cristal de la tormenta del experto"
+  },
+  "T5_ARTEFACT_MAIN_MACE_HELL": {
+    "en": "Expert's Infernal Mace Head",
+    "es": "Cabeza de maza infernal del experto"
+  },
+  "T5_ARTEFACT_MAIN_NATURESTAFF_AVALON": {
+    "en": "Expert's Uprooted Perennial Sapling",
+    "es": "Plántula desarraigada perenne del experto"
+  },
+  "T5_ARTEFACT_MAIN_NATURESTAFF_CRYSTAL": {
+    "en": "Expert's Forged Crystal",
+    "es": "Cristal Forjado del Experto"
+  },
+  "T5_ARTEFACT_MAIN_NATURESTAFF_KEEPER": {
+    "en": "Expert's Druidic Inscriptions",
+    "es": "Inscripciones de druida del experto"
+  },
+  "T5_ARTEFACT_MAIN_RAPIER_MORGANA": {
+    "en": "Expert's Hardened Debole",
+    "es": "Punta endurecida del experto"
+  },
+  "T5_ARTEFACT_MAIN_ROCKMACE_KEEPER": {
+    "en": "Expert's Runed Rock",
+    "es": "Roca rúnica del experto"
+  },
+  "T5_ARTEFACT_MAIN_SCIMITAR_MORGANA": {
+    "en": "Expert's Bloodforged Blade",
+    "es": "Hoja forjada con sangre del experto"
+  },
+  "T5_ARTEFACT_MAIN_SPEAR_KEEPER": {
+    "en": "Expert's Keeper Spearhead",
+    "es": "Cabeza de lanza de guardián del experto"
+  },
+  "T5_ARTEFACT_MAIN_SPEAR_LANCE_AVALON": {
+    "en": "Expert's Ruined Ancestral Vamplate",
+    "es": "Vamplate ancestral arruinado del experto"
+  },
+  "T5_ARTEFACT_MAIN_SWORD_CRYSTAL": {
+    "en": "Expert's Infinite Crystal",
+    "es": "Cristal infinito del experto"
+  },
+  "T5_ARTEFACT_OFF_CENSER_AVALON": {
+    "en": "Expert's Severed Celestial Keepsake",
+    "es": "Recuerdo celestial roto del experto"
+  },
+  "T5_ARTEFACT_OFF_DEMONSKULL_HELL": {
+    "en": "Expert's Demonic Jawbone",
+    "es": "Quijada demoníaca del experto"
+  },
+  "T5_ARTEFACT_OFF_HORN_KEEPER": {
+    "en": "Expert's Runed Horn",
+    "es": "Cuerno rúnico del experto"
+  },
+  "T5_ARTEFACT_OFF_JESTERCANE_HELL": {
+    "en": "Expert's Hellish Handle",
+    "es": "Empuñadura diabólica del experto"
+  },
+  "T5_ARTEFACT_OFF_LAMP_UNDEAD": {
+    "en": "Expert's Ghastly Candle",
+    "es": "Candil abominable del experto"
+  },
+  "T5_ARTEFACT_OFF_ORB_MORGANA": {
+    "en": "Expert's Alluring Crystal",
+    "es": "Cristal tentador del experto"
+  },
+  "T5_ARTEFACT_OFF_SHIELD_AVALON": {
+    "en": "Expert's Crushed Avalonian Heirloom",
+    "es": "Reliquia avaloniana destruida del experto"
+  },
+  "T5_ARTEFACT_OFF_SHIELD_CRYSTAL": {
+    "en": "Expert's Unbreakable Crystal",
+    "es": "Cristal Inquebrantable del Experto"
+  },
+  "T5_ARTEFACT_OFF_SHIELD_HELL": {
+    "en": "Expert's Infernal Shield Core",
+    "es": "Núcleo de escudo infernal del experto"
+  },
+  "T5_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA": {
+    "en": "Expert's Bloodforged Spikes",
+    "es": "Púas forjadas con sangre del experto"
+  },
+  "T5_ARTEFACT_OFF_TALISMAN_AVALON": {
+    "en": "Expert's Shattered Avalonian Memento",
+    "es": "Recuerdo avaloniano destrozado del experto"
+  },
+  "T5_ARTEFACT_OFF_TOME_CRYSTAL": {
+    "en": "Expert's Timelocked Crystal",
+    "es": "Cristal Cronoestático del Experto"
+  },
+  "T5_ARTEFACT_OFF_TORCH_CRYSTAL": {
+    "en": "Expert's Blueflame Crystal",
+    "es": "Cristal Llamazul del Experto"
+  },
+  "T5_ARTEFACT_OFF_TOTEM_KEEPER": {
+    "en": "Expert's Inscribed Stone",
+    "es": "Piedra inscrita del experto"
+  },
+  "T5_ARTEFACT_OFF_TOWERSHIELD_UNDEAD": {
+    "en": "Expert's Ancient Shield Core",
+    "es": "Núcleo de escudo antiguo del experto"
+  },
+  "T5_ARTEFACT_SHOES_CLOTH_AVALON": {
+    "en": "Expert's Sanctified Bindings",
+    "es": "Ataduras santificadas del experto"
+  },
+  "T5_ARTEFACT_SHOES_CLOTH_FEY": {
+    "en": "Expert's Fey Dragonscales",
+    "es": "Escamas de dragón feéricas del experto"
+  },
+  "T5_ARTEFACT_SHOES_CLOTH_HELL": {
+    "en": "Expert's Infernal Cloth Bindings",
+    "es": "Ataduras de tela infernal del experto"
+  },
+  "T5_ARTEFACT_SHOES_CLOTH_KEEPER": {
+    "en": "Expert's Druidic Bindings",
+    "es": "Ataduras druidas del experto"
+  },
+  "T5_ARTEFACT_SHOES_CLOTH_MORGANA": {
+    "en": "Expert's Alluring Bindings",
+    "es": "Ataduras tentadoras del experto"
+  },
+  "T5_ARTEFACT_SHOES_LEATHER_AVALON": {
+    "en": "Expert's Augured Fasteners",
+    "es": "Sujetadores augurados del experto"
+  },
+  "T5_ARTEFACT_SHOES_LEATHER_FEY": {
+    "en": "Expert's Griffin Underfur",
+    "es": "Pelaje de grifo del experto"
+  },
+  "T5_ARTEFACT_SHOES_LEATHER_HELL": {
+    "en": "Expert's Demonhide Bindings",
+    "es": "Ataduras de piel de demonio del experto"
+  },
+  "T5_ARTEFACT_SHOES_LEATHER_MORGANA": {
+    "en": "Expert's Imbued Soles",
+    "es": "Suelas imbuidas del experto"
+  },
+  "T5_ARTEFACT_SHOES_LEATHER_UNDEAD": {
+    "en": "Expert's Ghastly Bindings",
+    "es": "Ataduras abominables del experto"
+  },
+  "T5_ARTEFACT_SHOES_PLATE_AVALON": {
+    "en": "Expert's Exalted Greave",
+    "es": "Greba exaltada del experto"
+  },
+  "T5_ARTEFACT_SHOES_PLATE_FEY": {
+    "en": "Expert's Veilweaver Claws",
+    "es": "Garras de tejevelos del experto"
+  },
+  "T5_ARTEFACT_SHOES_PLATE_HELL": {
+    "en": "Expert's Demonic Filling",
+    "es": "Relleno demoníaco del experto"
+  },
+  "T5_ARTEFACT_SHOES_PLATE_KEEPER": {
+    "en": "Expert's Inscribed Bindings",
+    "es": "Ataduras inscritas del experto"
+  },
+  "T5_ARTEFACT_SHOES_PLATE_UNDEAD": {
+    "en": "Expert's Ancient Bindings",
+    "es": "Ataduras antiguas del experto"
+  },
+  "T5_ARTEFACT_TOKEN_FAVOR_1": {
+    "en": "Expert's Crystallized Spirit",
+    "es": "Espíritu cristalizado del experto"
+  },
+  "T5_ARTEFACT_TOKEN_FAVOR_2": {
+    "en": "Expert's Crystallized Dread",
+    "es": "Terror cristalizado del experto"
+  },
+  "T5_ARTEFACT_TOKEN_FAVOR_3": {
+    "en": "Expert's Crystallized Magic",
+    "es": "Magia cristalizada del experto"
+  },
+  "T5_ARTEFACT_TOKEN_FAVOR_4": {
+    "en": "Expert's Crystallized Divinity",
+    "es": "Divinidad cristalizada del experto"
   },
   "T5_BAG": {
     "en": "Expert's Bag",
@@ -14522,6 +15722,606 @@
   "T6_ARMOR_PLATE_UNDEAD@4": {
     "en": "Master's Graveguard Armor",
     "es": "Armadura de guardatumbas del maestro"
+  },
+  "T6_ARTEFACT_2H_ARCANESTAFF_CRYSTAL": {
+    "en": "Master's Startouched Crystal",
+    "es": "Cristal estrellado del maestro"
+  },
+  "T6_ARTEFACT_2H_ARCANESTAFF_HELL": {
+    "en": "Master's Occult Orb",
+    "es": "Orbe oculto del maestro"
+  },
+  "T6_ARTEFACT_2H_ARCANE_RINGPAIR_AVALON": {
+    "en": "Master's Hypnotic Harmonic Ring",
+    "es": "Anillo armónico hipnótico del maestro"
+  },
+  "T6_ARTEFACT_2H_AXE_AVALON": {
+    "en": "Master's Avalonian Battle Memoir",
+    "es": "Recuerdos de batalla avalonianos del maestro"
+  },
+  "T6_ARTEFACT_2H_BOW_AVALON": {
+    "en": "Master's Immaculately Crafted Riser",
+    "es": "Tubo fabricado inmaculado del maestro"
+  },
+  "T6_ARTEFACT_2H_BOW_CRYSTAL": {
+    "en": "Master's Windborne Crystal",
+    "es": "Cristal de Viento del Maestro"
+  },
+  "T6_ARTEFACT_2H_BOW_HELL": {
+    "en": "Master's Demonic Arrowheads",
+    "es": "Puntas de flecha demoníacas del maestro"
+  },
+  "T6_ARTEFACT_2H_BOW_KEEPER": {
+    "en": "Master's Carved Bone",
+    "es": "Hueso tallado del maestro"
+  },
+  "T6_ARTEFACT_2H_CLAYMORE_AVALON": {
+    "en": "Master's Remnants of the Old King",
+    "es": "Restos del viejo rey del maestro"
+  },
+  "T6_ARTEFACT_2H_CLEAVER_HELL": {
+    "en": "Master's Demonic Blade",
+    "es": "Hoja demoníaca del maestro"
+  },
+  "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA": {
+    "en": "Master's Reinforced Morgana Pole",
+    "es": "Palo de Morgana reforzado del maestro"
+  },
+  "T6_ARTEFACT_2H_CROSSBOWLARGE_MORGANA": {
+    "en": "Master's Alluring Bolts",
+    "es": "Saetas tentadoras del maestro"
+  },
+  "T6_ARTEFACT_2H_CROSSBOW_CANNON_AVALON": {
+    "en": "Master's Humming Avalonian Whirligig",
+    "es": "Veleta de zumbido avaloniano del maestro"
+  },
+  "T6_ARTEFACT_2H_CURSEDSTAFF_MORGANA": {
+    "en": "Master's Bloodforged Catalyst",
+    "es": "Catalizador forjado con sangre del maestro"
+  },
+  "T6_ARTEFACT_2H_DAGGERPAIR_CRYSTAL": {
+    "en": "Master's Death-Touched Crystal",
+    "es": "Cristal mortífero del maestro"
+  },
+  "T6_ARTEFACT_2H_DAGGER_KATAR_AVALON": {
+    "en": "Master's Bloodstained Antiquities",
+    "es": "Antigüedades sangrientas del maestro"
+  },
+  "T6_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL": {
+    "en": "Master's Mirage Crystal",
+    "es": "Cristal miraje del maestro"
+  },
+  "T6_ARTEFACT_2H_DUALAXE_KEEPER": {
+    "en": "Master's Keeper Axeheads",
+    "es": "Cabezas de hacha de guardián del maestro"
+  },
+  "T6_ARTEFACT_2H_DUALCROSSBOW_CRYSTAL": {
+    "en": "Master's Arclight Crystal",
+    "es": "Cristal de Luz del Maestro"
+  },
+  "T6_ARTEFACT_2H_DUALCROSSBOW_HELL": {
+    "en": "Master's Hellish Bolts",
+    "es": "Saetas diabólicas del maestro"
+  },
+  "T6_ARTEFACT_2H_DUALHAMMER_HELL": {
+    "en": "Master's Hellish Hammer Heads",
+    "es": "Cabezas de martillo diabólicas del maestro"
+  },
+  "T6_ARTEFACT_2H_DUALMACE_AVALON": {
+    "en": "Master's Broken Oaths",
+    "es": "Juramentos rotos del maestro"
+  },
+  "T6_ARTEFACT_2H_DUALSCIMITAR_UNDEAD": {
+    "en": "Master's Cursed Blades",
+    "es": "Hojas malditas del maestro"
+  },
+  "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD": {
+    "en": "Master's Ghastly Blades",
+    "es": "Hojas abominables del maestro"
+  },
+  "T6_ARTEFACT_2H_ENIGMATICORB_MORGANA": {
+    "en": "Master's Possessed Catalyst",
+    "es": "Catalizador poseído del maestro"
+  },
+  "T6_ARTEFACT_2H_FIRESTAFF_HELL": {
+    "en": "Master's Burning Orb",
+    "es": "Orbe ardiente del maestro"
+  },
+  "T6_ARTEFACT_2H_FIRE_RINGPAIR_AVALON": {
+    "en": "Master's Glowing Harmonic Ring",
+    "es": "Anillo armónico brillante del maestro"
+  },
+  "T6_ARTEFACT_2H_FROSTSTAFF_CRYSTAL": {
+    "en": "Master's Icy Crystal",
+    "es": "Cristal álgido del maestro"
+  },
+  "T6_ARTEFACT_2H_GLAIVE_CRYSTAL": {
+    "en": "Master's Rift Crystal",
+    "es": "Cristal fisurante del maestro"
+  },
+  "T6_ARTEFACT_2H_HALBERD_MORGANA": {
+    "en": "Master's Morgana Halberd Head",
+    "es": "Cabeza de alabarda de Morgana del maestro"
+  },
+  "T6_ARTEFACT_2H_HAMMER_AVALON": {
+    "en": "Master's Massive Metallic Hand",
+    "es": "Mano metálica masiva del maestro"
+  },
+  "T6_ARTEFACT_2H_HAMMER_CRYSTAL": {
+    "en": "Master's Crackling Crystal",
+    "es": "Cristal Crepitante del Maestro"
+  },
+  "T6_ARTEFACT_2H_HAMMER_UNDEAD": {
+    "en": "Master's Ancient Hammer Head",
+    "es": "Cabeza de martillo antigua del maestro"
+  },
+  "T6_ARTEFACT_2H_HARPOON_HELL": {
+    "en": "Master's Infernal Harpoon Tip",
+    "es": "Punta de arpón infernal del maestro"
+  },
+  "T6_ARTEFACT_2H_HOLYSTAFF_CRYSTAL": {
+    "en": "Master's Exalted Crystal",
+    "es": "Cristal exaltado del maestro"
+  },
+  "T6_ARTEFACT_2H_HOLYSTAFF_HELL": {
+    "en": "Master's Infernal Scroll",
+    "es": "Pergamino infernal del maestro"
+  },
+  "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD": {
+    "en": "Master's Ghastly Scroll",
+    "es": "Pergamino abominable del maestro"
+  },
+  "T6_ARTEFACT_2H_ICECRYSTAL_UNDEAD": {
+    "en": "Master's Cursed Frozen Crystal",
+    "es": "Cristal congelado maldito del maestro"
+  },
+  "T6_ARTEFACT_2H_ICEGAUNTLETS_HELL": {
+    "en": "Master's Icicle Orb",
+    "es": "Orbe de carámbanos del maestro"
+  },
+  "T6_ARTEFACT_2H_INFERNOSTAFF_MORGANA": {
+    "en": "Master's Unholy Scroll",
+    "es": "Pergamino profano del maestro"
+  },
+  "T6_ARTEFACT_2H_IRONGAUNTLETS_HELL": {
+    "en": "Master's Black Leather",
+    "es": "Cuero negro del maestro"
+  },
+  "T6_ARTEFACT_2H_KNUCKLES_AVALON": {
+    "en": "Master's Damaged Avalonian Gauntlet",
+    "es": "Guantelete avaloniano dañado del maestro"
+  },
+  "T6_ARTEFACT_2H_KNUCKLES_CRYSTAL": {
+    "en": "Master's Pulsating Crystal",
+    "es": "Cristal Pulsante del Maestro"
+  },
+  "T6_ARTEFACT_2H_KNUCKLES_HELL": {
+    "en": "Master's Severed Demonic Horns",
+    "es": "Cuernos demoníacos rotos del maestro"
+  },
+  "T6_ARTEFACT_2H_KNUCKLES_KEEPER": {
+    "en": "Master's Ursine Guardian Remains",
+    "es": "Restos de guardián osuno del maestro"
+  },
+  "T6_ARTEFACT_2H_KNUCKLES_MORGANA": {
+    "en": "Master's Warped Raven Plate",
+    "es": "Placa de cuervo deforme del maestro"
+  },
+  "T6_ARTEFACT_2H_LONGBOW_UNDEAD": {
+    "en": "Master's Ghastly Arrows",
+    "es": "Flechas abominables del maestro"
+  },
+  "T6_ARTEFACT_2H_MACE_MORGANA": {
+    "en": "Master's Imbued Mace Head",
+    "es": "Cabeza de maza imbuida del maestro"
+  },
+  "T6_ARTEFACT_2H_NATURESTAFF_HELL": {
+    "en": "Master's Symbol of Blight",
+    "es": "Símbolo de infortunio del maestro"
+  },
+  "T6_ARTEFACT_2H_NATURESTAFF_KEEPER": {
+    "en": "Master's Preserved Log",
+    "es": "Tronco preservado del maestro"
+  },
+  "T6_ARTEFACT_2H_QUARTERSTAFF_AVALON": {
+    "en": "Master's Timeworn Walking Staff",
+    "es": "Bastón desgastado del maestro"
+  },
+  "T6_ARTEFACT_2H_RAM_KEEPER": {
+    "en": "Master's Engraved Log",
+    "es": "Tronco grabado del maestro"
+  },
+  "T6_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD": {
+    "en": "Master's Lost Crossbow Mechanism",
+    "es": "Mecanismo perdido de ballesta del maestro"
+  },
+  "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER": {
+    "en": "Master's Preserved Rocks",
+    "es": "Rocas preservadas del maestro"
+  },
+  "T6_ARTEFACT_2H_SCYTHE_CRYSTAL": {
+    "en": "Master's Edged Crystal",
+    "es": "Cristal afilado del maestro"
+  },
+  "T6_ARTEFACT_2H_SCYTHE_HELL": {
+    "en": "Master's Hellish Sicklehead",
+    "es": "Cabeza de hoz diabólica del maestro"
+  },
+  "T6_ARTEFACT_2H_SHAPESHIFTER_AVALON": {
+    "en": "Master's Dawnbird Remnant",
+    "es": "Restos de ave del alba del maestro"
+  },
+  "T6_ARTEFACT_2H_SHAPESHIFTER_CRYSTAL": {
+    "en": "Master's Serpent Crystal",
+    "es": "Cristal Serpentino del Maestro"
+  },
+  "T6_ARTEFACT_2H_SHAPESHIFTER_HELL": {
+    "en": "Master's Hellfire Imp Remnant",
+    "es": "Restos de diablillo de fuego infernal del maestro"
+  },
+  "T6_ARTEFACT_2H_SHAPESHIFTER_KEEPER": {
+    "en": "Master's Runestone Golem Remnant",
+    "es": "Restos de gólem de piedra rúnica del maestro"
+  },
+  "T6_ARTEFACT_2H_SHAPESHIFTER_MORGANA": {
+    "en": "Master's Werewolf Remnant",
+    "es": "Restos de hombre lobo del maestro"
+  },
+  "T6_ARTEFACT_2H_SKULLORB_HELL": {
+    "en": "Master's Cursed Jawbone",
+    "es": "Quijada maldita del maestro"
+  },
+  "T6_ARTEFACT_2H_TRIDENT_UNDEAD": {
+    "en": "Master's Cursed Barbs",
+    "es": "Pinchos malditos del maestro"
+  },
+  "T6_ARTEFACT_2H_TWINSCYTHE_HELL": {
+    "en": "Master's Hellish Sicklehead Pair",
+    "es": "Par de cabezas de hoz diabólica del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_CLOTH_AVALON": {
+    "en": "Master's Sanctified Belt",
+    "es": "Cinturón santificado de maestro"
+  },
+  "T6_ARTEFACT_ARMOR_CLOTH_FEY": {
+    "en": "Master's Fey Dorsal Wing",
+    "es": "Ala dorsal feérica del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_CLOTH_HELL": {
+    "en": "Master's Infernal Cloth Folds",
+    "es": "Pliegues de tela infernal del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_CLOTH_KEEPER": {
+    "en": "Master's Druidic Feathers",
+    "es": "Plumas druidas del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_CLOTH_MORGANA": {
+    "en": "Master's Alluring Amulet",
+    "es": "Amuleto tentador del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_LEATHER_AVALON": {
+    "en": "Master's Augured Sash",
+    "es": "Faja augurada del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_LEATHER_FEY": {
+    "en": "Master's Untarnished Griffin Feathers",
+    "es": "Plumas de grifo impolutas del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_LEATHER_HELL": {
+    "en": "Master's Demonhide Leather",
+    "es": "Cuero de piel de demonio del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_LEATHER_MORGANA": {
+    "en": "Master's Imbued Leather Folds",
+    "es": "Pliegues de cuero imbuidos del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_LEATHER_UNDEAD": {
+    "en": "Master's Ghastly Leather",
+    "es": "Cuero abominable del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_PLATE_AVALON": {
+    "en": "Master's Exalted Plating",
+    "es": "Enchapado exaltado del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_PLATE_FEY": {
+    "en": "Master's Veilweaver Carapace",
+    "es": "Caparazón de tejevelos del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_PLATE_HELL": {
+    "en": "Master's Demonic Plates",
+    "es": "Placas demoníacas del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_PLATE_KEEPER": {
+    "en": "Master's Preserved Animal Fur",
+    "es": "Pieles de animal preservadas del maestro"
+  },
+  "T6_ARTEFACT_ARMOR_PLATE_UNDEAD": {
+    "en": "Master's Ancient Chain Rings",
+    "es": "Cota de malla antigua del maestro"
+  },
+  "T6_ARTEFACT_HEAD_CLOTH_AVALON": {
+    "en": "Master's Sanctified Mask",
+    "es": "Máscara santificada del maestro"
+  },
+  "T6_ARTEFACT_HEAD_CLOTH_FEY": {
+    "en": "Master's Intact Fey Fibula",
+    "es": "Fíbula feérica intacta del maestro"
+  },
+  "T6_ARTEFACT_HEAD_CLOTH_HELL": {
+    "en": "Master's Infernal Cloth Visor",
+    "es": "Visera de tela infernal del maestro"
+  },
+  "T6_ARTEFACT_HEAD_CLOTH_KEEPER": {
+    "en": "Master's Druidic Preserved Beak",
+    "es": "Pico preservado druida del maestro"
+  },
+  "T6_ARTEFACT_HEAD_CLOTH_MORGANA": {
+    "en": "Master's Alluring Padding",
+    "es": "Acolchado tentador del maestro"
+  },
+  "T6_ARTEFACT_HEAD_LEATHER_AVALON": {
+    "en": "Master's Augured Padding",
+    "es": "Relleno Augurado del Maestro"
+  },
+  "T6_ARTEFACT_HEAD_LEATHER_FEY": {
+    "en": "Master's Flawless Griffin Beak",
+    "es": "Pico de grifo impecable del maestro"
+  },
+  "T6_ARTEFACT_HEAD_LEATHER_HELL": {
+    "en": "Master's Demonhide Padding",
+    "es": "Acolchado de piel de demonio del maestro"
+  },
+  "T6_ARTEFACT_HEAD_LEATHER_MORGANA": {
+    "en": "Master's Imbued Visor",
+    "es": "Visera imbuida del maestro"
+  },
+  "T6_ARTEFACT_HEAD_LEATHER_UNDEAD": {
+    "en": "Master's Ghastly Visor",
+    "es": "Visera abominable del maestro"
+  },
+  "T6_ARTEFACT_HEAD_PLATE_AVALON": {
+    "en": "Master's Exalted Visor",
+    "es": "Visera exaltada del maestro"
+  },
+  "T6_ARTEFACT_HEAD_PLATE_FEY": {
+    "en": "Master's Veilweaver Mandibles",
+    "es": "Mandíbulas de tejevelos del maestro"
+  },
+  "T6_ARTEFACT_HEAD_PLATE_HELL": {
+    "en": "Master's Demonic Scraps",
+    "es": "Esquirlas demoníacas del maestro"
+  },
+  "T6_ARTEFACT_HEAD_PLATE_KEEPER": {
+    "en": "Master's Carved Skull Padding",
+    "es": "Acolchado de calavera tallada del maestro"
+  },
+  "T6_ARTEFACT_HEAD_PLATE_UNDEAD": {
+    "en": "Master's Ancient Padding",
+    "es": "Acolchado antiguo del maestro"
+  },
+  "T6_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD": {
+    "en": "Master's Lost Arcane Crystal",
+    "es": "Cristal arcano perdido del maestro"
+  },
+  "T6_ARTEFACT_MAIN_CURSEDSTAFF_AVALON": {
+    "en": "Master's Fractured Opaque Orb",
+    "es": "Orbe opaco fracturado del maestro"
+  },
+  "T6_ARTEFACT_MAIN_CURSEDSTAFF_CRYSTAL": {
+    "en": "Master's Rotten Crystal",
+    "es": "Cristal Putrefacto del Maestro"
+  },
+  "T6_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD": {
+    "en": "Master's Lost Cursed Crystal",
+    "es": "Cristal maldito perdido del maestro"
+  },
+  "T6_ARTEFACT_MAIN_DAGGER_HELL": {
+    "en": "Master's Broken Demonic Fang",
+    "es": "Colmillo demoníaco roto del maestro"
+  },
+  "T6_ARTEFACT_MAIN_FIRESTAFF_CRYSTAL": {
+    "en": "Master's Pyreheart Crystal",
+    "es": "Cristal de Corazón de Pira del Maestro"
+  },
+  "T6_ARTEFACT_MAIN_FIRESTAFF_KEEPER": {
+    "en": "Master's Wildfire Orb",
+    "es": "Orbe de fuego incontrolable del maestro"
+  },
+  "T6_ARTEFACT_MAIN_FROSTSTAFF_AVALON": {
+    "en": "Master's Chilled Crystalline Shard",
+    "es": "Fragmento cristalino helado del maestro"
+  },
+  "T6_ARTEFACT_MAIN_FROSTSTAFF_KEEPER": {
+    "en": "Master's Hoarfrost Orb",
+    "es": "Orbe de escarcha del maestro"
+  },
+  "T6_ARTEFACT_MAIN_HOLYSTAFF_AVALON": {
+    "en": "Master's Messianic Curio",
+    "es": "Rareza mesiánica del maestro"
+  },
+  "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA": {
+    "en": "Master's Possessed Scroll",
+    "es": "Pergamino poseído del maestro"
+  },
+  "T6_ARTEFACT_MAIN_MACE_CRYSTAL": {
+    "en": "Master's Dreadstorm Crystal",
+    "es": "Cristal de la tormenta del maestro"
+  },
+  "T6_ARTEFACT_MAIN_MACE_HELL": {
+    "en": "Master's Infernal Mace Head",
+    "es": "Cabeza de maza infernal del maestro"
+  },
+  "T6_ARTEFACT_MAIN_NATURESTAFF_AVALON": {
+    "en": "Master's Uprooted Perennial Sapling",
+    "es": "Plántula desarraigada perenne del maestro"
+  },
+  "T6_ARTEFACT_MAIN_NATURESTAFF_CRYSTAL": {
+    "en": "Master's Forged Crystal",
+    "es": "Cristal Forjado del Maestro"
+  },
+  "T6_ARTEFACT_MAIN_NATURESTAFF_KEEPER": {
+    "en": "Master's Druidic Inscriptions",
+    "es": "Inscripciones de druida del maestro"
+  },
+  "T6_ARTEFACT_MAIN_RAPIER_MORGANA": {
+    "en": "Master's Hardened Debole",
+    "es": "Punta endurecida del maestro"
+  },
+  "T6_ARTEFACT_MAIN_ROCKMACE_KEEPER": {
+    "en": "Master's Runed Rock",
+    "es": "Roca rúnica del maestro"
+  },
+  "T6_ARTEFACT_MAIN_SCIMITAR_MORGANA": {
+    "en": "Master's Bloodforged Blade",
+    "es": "Hoja forjada con sangre del maestro"
+  },
+  "T6_ARTEFACT_MAIN_SPEAR_KEEPER": {
+    "en": "Master's Keeper Spearhead",
+    "es": "Cabeza de lanza de guardián del maestro"
+  },
+  "T6_ARTEFACT_MAIN_SPEAR_LANCE_AVALON": {
+    "en": "Master's Ruined Ancestral Vamplate",
+    "es": "Vamplate ancestral arruinado del maestro"
+  },
+  "T6_ARTEFACT_MAIN_SWORD_CRYSTAL": {
+    "en": "Master's Infinite Crystal",
+    "es": "Cristal infinito del maestro"
+  },
+  "T6_ARTEFACT_OFF_CENSER_AVALON": {
+    "en": "Master's Severed Celestial Keepsake",
+    "es": "Recuerdo celestial roto del maestro"
+  },
+  "T6_ARTEFACT_OFF_DEMONSKULL_HELL": {
+    "en": "Master's Demonic Jawbone",
+    "es": "Quijada demoníaca del maestro"
+  },
+  "T6_ARTEFACT_OFF_HORN_KEEPER": {
+    "en": "Master's Runed Horn",
+    "es": "Cuerno rúnico del maestro"
+  },
+  "T6_ARTEFACT_OFF_JESTERCANE_HELL": {
+    "en": "Master's Hellish Handle",
+    "es": "Empuñadura diabólica del maestro"
+  },
+  "T6_ARTEFACT_OFF_LAMP_UNDEAD": {
+    "en": "Master's Ghastly Candle",
+    "es": "Candil abominable del maestro"
+  },
+  "T6_ARTEFACT_OFF_ORB_MORGANA": {
+    "en": "Master's Alluring Crystal",
+    "es": "Cristal tentador del maestro"
+  },
+  "T6_ARTEFACT_OFF_SHIELD_AVALON": {
+    "en": "Master's Crushed Avalonian Heirloom",
+    "es": "Reliquia avaloniana destruida del maestro"
+  },
+  "T6_ARTEFACT_OFF_SHIELD_CRYSTAL": {
+    "en": "Master's Unbreakable Crystal",
+    "es": "Cristal Inquebrantable del Maestro"
+  },
+  "T6_ARTEFACT_OFF_SHIELD_HELL": {
+    "en": "Master's Infernal Shield Core",
+    "es": "Núcleo de escudo infernal del maestro"
+  },
+  "T6_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA": {
+    "en": "Master's Bloodforged Spikes",
+    "es": "Púas forjadas con sangre del maestro"
+  },
+  "T6_ARTEFACT_OFF_TALISMAN_AVALON": {
+    "en": "Master's Shattered Avalonian Memento",
+    "es": "Recuerdo avaloniano destrozado del maestro"
+  },
+  "T6_ARTEFACT_OFF_TOME_CRYSTAL": {
+    "en": "Master's Timelocked Crystal",
+    "es": "Cristal Cronoestático del Maestro"
+  },
+  "T6_ARTEFACT_OFF_TORCH_CRYSTAL": {
+    "en": "Master's Blueflame Crystal",
+    "es": "Cristal Llamazul del Maestro"
+  },
+  "T6_ARTEFACT_OFF_TOTEM_KEEPER": {
+    "en": "Master's Inscribed Stone",
+    "es": "Piedra inscrita del maestro"
+  },
+  "T6_ARTEFACT_OFF_TOWERSHIELD_UNDEAD": {
+    "en": "Master's Ancient Shield Core",
+    "es": "Núcleo de escudo antiguo del maestro"
+  },
+  "T6_ARTEFACT_SHOES_CLOTH_AVALON": {
+    "en": "Master's Sanctified Bindings",
+    "es": "Ataduras santificadas del maestro"
+  },
+  "T6_ARTEFACT_SHOES_CLOTH_FEY": {
+    "en": "Master's Fey Dragonscales",
+    "es": "Escamas de dragón feéricas del maestro"
+  },
+  "T6_ARTEFACT_SHOES_CLOTH_HELL": {
+    "en": "Master's Infernal Cloth Bindings",
+    "es": "Ataduras de tela infernal del maestro"
+  },
+  "T6_ARTEFACT_SHOES_CLOTH_KEEPER": {
+    "en": "Master's Druidic Bindings",
+    "es": "Ataduras druidas del maestro"
+  },
+  "T6_ARTEFACT_SHOES_CLOTH_MORGANA": {
+    "en": "Master's Alluring Bindings",
+    "es": "Ataduras tentadoras del maestro"
+  },
+  "T6_ARTEFACT_SHOES_LEATHER_AVALON": {
+    "en": "Master's Augured Fasteners",
+    "es": "Sujetadores augurados del maestro"
+  },
+  "T6_ARTEFACT_SHOES_LEATHER_FEY": {
+    "en": "Master's Griffin Underfur",
+    "es": "Pelaje de grifo del maestro"
+  },
+  "T6_ARTEFACT_SHOES_LEATHER_HELL": {
+    "en": "Master's Demonhide Bindings",
+    "es": "Ataduras de piel de demonio del maestro"
+  },
+  "T6_ARTEFACT_SHOES_LEATHER_MORGANA": {
+    "en": "Master's Imbued Soles",
+    "es": "Suelas imbuidas del maestro"
+  },
+  "T6_ARTEFACT_SHOES_LEATHER_UNDEAD": {
+    "en": "Master's Ghastly Bindings",
+    "es": "Ataduras abominables del maestro"
+  },
+  "T6_ARTEFACT_SHOES_PLATE_AVALON": {
+    "en": "Master's Exalted Greave",
+    "es": "Greba exaltada del maestro"
+  },
+  "T6_ARTEFACT_SHOES_PLATE_FEY": {
+    "en": "Master's Veilweaver Claws",
+    "es": "Garras de tejevelos del maestro"
+  },
+  "T6_ARTEFACT_SHOES_PLATE_HELL": {
+    "en": "Master's Demonic Filling",
+    "es": "Relleno demoníaco del maestro"
+  },
+  "T6_ARTEFACT_SHOES_PLATE_KEEPER": {
+    "en": "Master's Inscribed Bindings",
+    "es": "Ataduras inscritas del maestro"
+  },
+  "T6_ARTEFACT_SHOES_PLATE_UNDEAD": {
+    "en": "Master's Ancient Bindings",
+    "es": "Ataduras antiguas del maestro"
+  },
+  "T6_ARTEFACT_TOKEN_FAVOR_1": {
+    "en": "Master's Crystallized Spirit",
+    "es": "Espíritu cristalizado del maestro"
+  },
+  "T6_ARTEFACT_TOKEN_FAVOR_2": {
+    "en": "Master's Crystallized Dread",
+    "es": "Terror cristalizado del maestro"
+  },
+  "T6_ARTEFACT_TOKEN_FAVOR_3": {
+    "en": "Master's Crystallized Magic",
+    "es": "Magia cristalizada del maestro"
+  },
+  "T6_ARTEFACT_TOKEN_FAVOR_4": {
+    "en": "Master's Crystallized Divinity",
+    "es": "Divinidad cristalizada del maestro"
   },
   "T6_BAG": {
     "en": "Master's Bag",
@@ -20251,6 +22051,606 @@
     "en": "Grandmaster's Graveguard Armor",
     "es": "Armadura de guardatumbas del gran maestro"
   },
+  "T7_ARTEFACT_2H_ARCANESTAFF_CRYSTAL": {
+    "en": "Grandmaster's Startouched Crystal",
+    "es": "Cristal estrellado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_ARCANESTAFF_HELL": {
+    "en": "Grandmaster's Occult Orb",
+    "es": "Orbe oculto del gran maestro"
+  },
+  "T7_ARTEFACT_2H_ARCANE_RINGPAIR_AVALON": {
+    "en": "Grandmaster's Hypnotic Harmonic Ring",
+    "es": "Anillo armónico hipnótico del gran maestro"
+  },
+  "T7_ARTEFACT_2H_AXE_AVALON": {
+    "en": "Grandmaster's Avalonian Battle Memoir",
+    "es": "Recuerdos de batalla avalonianos del gran maestro"
+  },
+  "T7_ARTEFACT_2H_BOW_AVALON": {
+    "en": "Grandmaster's Immaculately Crafted Riser",
+    "es": "Tubo fabricado inmaculado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_BOW_CRYSTAL": {
+    "en": "Grandmaster's Windborne Crystal",
+    "es": "Cristal de Viento del Gran Maestro"
+  },
+  "T7_ARTEFACT_2H_BOW_HELL": {
+    "en": "Grandmaster's Demonic Arrowheads",
+    "es": "Puntas de flecha demoníacas del gran maestro"
+  },
+  "T7_ARTEFACT_2H_BOW_KEEPER": {
+    "en": "Grandmaster's Carved Bone",
+    "es": "Hueso tallado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_CLAYMORE_AVALON": {
+    "en": "Grandmaster's Remnants of the Old King",
+    "es": "Restos del viejo rey del gran maestro"
+  },
+  "T7_ARTEFACT_2H_CLEAVER_HELL": {
+    "en": "Grandmaster's Demonic Blade",
+    "es": "Hoja demoníaca del gran maestro"
+  },
+  "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA": {
+    "en": "Grandmaster's Reinforced Morgana Pole",
+    "es": "Palo de Morgana reforzado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_CROSSBOWLARGE_MORGANA": {
+    "en": "Grandmaster's Alluring Bolts",
+    "es": "Saetas tentadoras del gran maestro"
+  },
+  "T7_ARTEFACT_2H_CROSSBOW_CANNON_AVALON": {
+    "en": "Grandmaster's Humming Avalonian Whirligig",
+    "es": "Veleta de zumbido avaloniano del gran maestro"
+  },
+  "T7_ARTEFACT_2H_CURSEDSTAFF_MORGANA": {
+    "en": "Grandmaster's Bloodforged Catalyst",
+    "es": "Catalizador forjado con sangre del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DAGGERPAIR_CRYSTAL": {
+    "en": "Grandmaster's Death-Touched Crystal",
+    "es": "Cristal mortífero del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DAGGER_KATAR_AVALON": {
+    "en": "Grandmaster's Bloodstained Antiquities",
+    "es": "Antigüedades sangrientas del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL": {
+    "en": "Grandmaster's Mirage Crystal",
+    "es": "Cristal miraje del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DUALAXE_KEEPER": {
+    "en": "Grandmaster's Keeper Axeheads",
+    "es": "Cabezas de hacha de guardián del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DUALCROSSBOW_CRYSTAL": {
+    "en": "Grandmaster's Arclight Crystal",
+    "es": "Cristal de Luz del Gran Maestro"
+  },
+  "T7_ARTEFACT_2H_DUALCROSSBOW_HELL": {
+    "en": "Grandmaster's Hellish Bolts",
+    "es": "Saetas diabólicas del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DUALHAMMER_HELL": {
+    "en": "Grandmaster's Hellish Hammer Heads",
+    "es": "Cabezas de martillo diabólicas del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DUALMACE_AVALON": {
+    "en": "Grandmaster's Broken Oaths",
+    "es": "Juramentos rotos del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DUALSCIMITAR_UNDEAD": {
+    "en": "Grandmaster's Cursed Blades",
+    "es": "Hojas malditas del gran maestro"
+  },
+  "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD": {
+    "en": "Grandmaster's Ghastly Blades",
+    "es": "Hojas abominables del gran maestro"
+  },
+  "T7_ARTEFACT_2H_ENIGMATICORB_MORGANA": {
+    "en": "Grandmaster's Possessed Catalyst",
+    "es": "Catalizador poseído del gran maestro"
+  },
+  "T7_ARTEFACT_2H_FIRESTAFF_HELL": {
+    "en": "Grandmaster's Burning Orb",
+    "es": "Orbe ardiente del gran maestro"
+  },
+  "T7_ARTEFACT_2H_FIRE_RINGPAIR_AVALON": {
+    "en": "Grandmaster's Glowing Harmonic Ring",
+    "es": "Anillo armónico brillante del gran maestro"
+  },
+  "T7_ARTEFACT_2H_FROSTSTAFF_CRYSTAL": {
+    "en": "Grandmaster's Icy Crystal",
+    "es": "Cristal álgido del gran maestro"
+  },
+  "T7_ARTEFACT_2H_GLAIVE_CRYSTAL": {
+    "en": "Grandmaster's Rift Crystal",
+    "es": "Cristal fisurante del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HALBERD_MORGANA": {
+    "en": "Grandmaster's Morgana Halberd Head",
+    "es": "Cabeza de alabarda de Morgana del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HAMMER_AVALON": {
+    "en": "Grandmaster's Massive Metallic Hand",
+    "es": "Mano metálica masiva del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HAMMER_CRYSTAL": {
+    "en": "Grandmaster's Crackling Crystal",
+    "es": "Cristal Crepitante del Gran Maestro"
+  },
+  "T7_ARTEFACT_2H_HAMMER_UNDEAD": {
+    "en": "Grandmaster's Ancient Hammer Head",
+    "es": "Cabeza de martillo antigua del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HARPOON_HELL": {
+    "en": "Grandmaster's Infernal Harpoon Tip",
+    "es": "Punta de arpón infernal del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HOLYSTAFF_CRYSTAL": {
+    "en": "Grandmaster's Exalted Crystal",
+    "es": "Cristal exaltado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HOLYSTAFF_HELL": {
+    "en": "Grandmaster's Infernal Scroll",
+    "es": "Pergamino infernal del gran maestro"
+  },
+  "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD": {
+    "en": "Grandmaster's Ghastly Scroll",
+    "es": "Pergamino abominable del gran maestro"
+  },
+  "T7_ARTEFACT_2H_ICECRYSTAL_UNDEAD": {
+    "en": "Grandmaster's Cursed Frozen Crystal",
+    "es": "Cristal congelado maldito del gran maestro"
+  },
+  "T7_ARTEFACT_2H_ICEGAUNTLETS_HELL": {
+    "en": "Grandmaster's Icicle Orb",
+    "es": "Orbe de carámbanos del gran maestro"
+  },
+  "T7_ARTEFACT_2H_INFERNOSTAFF_MORGANA": {
+    "en": "Grandmaster's Unholy Scroll",
+    "es": "Pergamino profano del gran maestro"
+  },
+  "T7_ARTEFACT_2H_IRONGAUNTLETS_HELL": {
+    "en": "Grandmaster's Black Leather",
+    "es": "Cuero negro del gran maestro"
+  },
+  "T7_ARTEFACT_2H_KNUCKLES_AVALON": {
+    "en": "Grandmaster's Damaged Avalonian Gauntlet",
+    "es": "Guantelete avaloniano dañado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_KNUCKLES_CRYSTAL": {
+    "en": "Grandmaster's Pulsating Crystal",
+    "es": "Cristal Pulsante del Gran Maestro"
+  },
+  "T7_ARTEFACT_2H_KNUCKLES_HELL": {
+    "en": "Grandmaster's Severed Demonic Horns",
+    "es": "Cuernos demoníacos rotos del gran maestro"
+  },
+  "T7_ARTEFACT_2H_KNUCKLES_KEEPER": {
+    "en": "Grandmaster's Ursine Guardian Remains",
+    "es": "Restos de guardián osuno del gran maestro"
+  },
+  "T7_ARTEFACT_2H_KNUCKLES_MORGANA": {
+    "en": "Grandmaster's Warped Raven Plate",
+    "es": "Placa de cuervo deforme del gran maestro"
+  },
+  "T7_ARTEFACT_2H_LONGBOW_UNDEAD": {
+    "en": "Grandmaster's Ghastly Arrows",
+    "es": "Flechas abominables del gran maestro"
+  },
+  "T7_ARTEFACT_2H_MACE_MORGANA": {
+    "en": "Grandmaster's Imbued Mace Head",
+    "es": "Cabeza de maza imbuida del gran maestro"
+  },
+  "T7_ARTEFACT_2H_NATURESTAFF_HELL": {
+    "en": "Grandmaster's Symbol of Blight",
+    "es": "Símbolo de infortunio del gran maestro"
+  },
+  "T7_ARTEFACT_2H_NATURESTAFF_KEEPER": {
+    "en": "Grandmaster's Preserved Log",
+    "es": "Tronco preservado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_QUARTERSTAFF_AVALON": {
+    "en": "Grandmaster's Timeworn Walking Staff",
+    "es": "Bastón desgastado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_RAM_KEEPER": {
+    "en": "Grandmaster's Engraved Log",
+    "es": "Tronco grabado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD": {
+    "en": "Grandmaster's Lost Crossbow Mechanism",
+    "es": "Mecanismo perdido de ballesta del gran maestro"
+  },
+  "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER": {
+    "en": "Grandmaster's Preserved Rocks",
+    "es": "Rocas preservadas del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SCYTHE_CRYSTAL": {
+    "en": "Grandmaster's Edged Crystal",
+    "es": "Cristal afilado del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SCYTHE_HELL": {
+    "en": "Grandmaster's Hellish Sicklehead",
+    "es": "Cabeza de hoz diabólica del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SHAPESHIFTER_AVALON": {
+    "en": "Grandmaster's Dawnbird Remnant",
+    "es": "Restos de ave del alba del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SHAPESHIFTER_CRYSTAL": {
+    "en": "Grandmaster's Serpent Crystal",
+    "es": "Cristal Serpentino del Gran Maestro"
+  },
+  "T7_ARTEFACT_2H_SHAPESHIFTER_HELL": {
+    "en": "Grandmaster's Hellfire Imp Remnant",
+    "es": "Restos de diablillo de fuego infernal del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SHAPESHIFTER_KEEPER": {
+    "en": "Grandmaster's Runestone Golem Remnant",
+    "es": "Restos de gólem de piedra rúnica del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SHAPESHIFTER_MORGANA": {
+    "en": "Grandmaster's Werewolf Remnant",
+    "es": "Restos de hombre lobo del gran maestro"
+  },
+  "T7_ARTEFACT_2H_SKULLORB_HELL": {
+    "en": "Grandmaster's Cursed Jawbone",
+    "es": "Quijada maldita del gran maestro"
+  },
+  "T7_ARTEFACT_2H_TRIDENT_UNDEAD": {
+    "en": "Grandmaster's Cursed Barbs",
+    "es": "Pinchos malditos del gran maestro"
+  },
+  "T7_ARTEFACT_2H_TWINSCYTHE_HELL": {
+    "en": "Grandmaster's Hellish Sicklehead Pair",
+    "es": "Par de cabezas de hoz diabólica del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_CLOTH_AVALON": {
+    "en": "Grandmaster's Sanctified Belt",
+    "es": "Cinturón santificado del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_CLOTH_FEY": {
+    "en": "Grandmaster's Fey Dorsal Wing",
+    "es": "Ala dorsal feérica del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_CLOTH_HELL": {
+    "en": "Grandmaster's Infernal Cloth Folds",
+    "es": "Pliegues de tela infernal del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_CLOTH_KEEPER": {
+    "en": "Grandmaster's Druidic Feathers",
+    "es": "Plumas druidas del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_CLOTH_MORGANA": {
+    "en": "Grandmaster's Alluring Amulet",
+    "es": "Amuleto tentador del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_LEATHER_AVALON": {
+    "en": "Grandmaster's Augured Sash",
+    "es": "Faja augurada del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_LEATHER_FEY": {
+    "en": "Grandmaster's Untarnished Griffin Feathers",
+    "es": "Plumas de grifo impolutas del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_LEATHER_HELL": {
+    "en": "Grandmaster's Demonhide Leather",
+    "es": "Cuero de piel de demonio del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_LEATHER_MORGANA": {
+    "en": "Grandmaster's Imbued Leather Folds",
+    "es": "Pliegues de cuero imbuidos del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_LEATHER_UNDEAD": {
+    "en": "Grandmaster's Ghastly Leather",
+    "es": "Cuero abominable del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_PLATE_AVALON": {
+    "en": "Grandmaster's Exalted Plating",
+    "es": "Enchapado exaltado del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_PLATE_FEY": {
+    "en": "Grandmaster's Veilweaver Carapace",
+    "es": "Caparazón de tejevelos del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_PLATE_HELL": {
+    "en": "Grandmaster's Demonic Plates",
+    "es": "Placas demoníacas del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_PLATE_KEEPER": {
+    "en": "Grandmaster's Preserved Animal Fur",
+    "es": "Pieles de animal preservadas del gran maestro"
+  },
+  "T7_ARTEFACT_ARMOR_PLATE_UNDEAD": {
+    "en": "Grandmaster's Ancient Chain Rings",
+    "es": "Cota de malla antigua del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_CLOTH_AVALON": {
+    "en": "Grandmaster's Sanctified Mask",
+    "es": "Máscara santificada del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_CLOTH_FEY": {
+    "en": "Grandmaster's Intact Fey Fibula",
+    "es": "Fíbula feérica intacta del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_CLOTH_HELL": {
+    "en": "Grandmaster's Infernal Cloth Visor",
+    "es": "Visera de tela infernal del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_CLOTH_KEEPER": {
+    "en": "Grandmaster's Druidic Preserved Beak",
+    "es": "Pico preservado druida del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_CLOTH_MORGANA": {
+    "en": "Grandmaster's Alluring Padding",
+    "es": "Acolchado tentador del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_LEATHER_AVALON": {
+    "en": "Grandmaster's Augured Padding",
+    "es": "Relleno Augurado del Gran Maestro"
+  },
+  "T7_ARTEFACT_HEAD_LEATHER_FEY": {
+    "en": "Grandmaster's Flawless Griffin Beak",
+    "es": "Pico de grifo impecable del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_LEATHER_HELL": {
+    "en": "Grandmaster's Demonhide Padding",
+    "es": "Acolchado de piel de demonio del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_LEATHER_MORGANA": {
+    "en": "Grandmaster's Imbued Visor",
+    "es": "Visera imbuida del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_LEATHER_UNDEAD": {
+    "en": "Grandmaster's Ghastly Visor",
+    "es": "Visera abominable del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_PLATE_AVALON": {
+    "en": "Grandmaster's Exalted Visor",
+    "es": "Visera exaltada del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_PLATE_FEY": {
+    "en": "Grandmaster's Veilweaver Mandibles",
+    "es": "Mandíbulas de tejevelos del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_PLATE_HELL": {
+    "en": "Grandmaster's Demonic Scraps",
+    "es": "Esquirlas demoníacas del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_PLATE_KEEPER": {
+    "en": "Grandmaster's Carved Skull Padding",
+    "es": "Acolchado de calavera tallada del gran maestro"
+  },
+  "T7_ARTEFACT_HEAD_PLATE_UNDEAD": {
+    "en": "Grandmaster's Ancient Padding",
+    "es": "Acolchado antiguo del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD": {
+    "en": "Grandmaster's Lost Arcane Crystal",
+    "es": "Cristal arcano perdido del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_CURSEDSTAFF_AVALON": {
+    "en": "Grandmaster's Fractured Opaque Orb",
+    "es": "Orbe opaco fracturado del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_CURSEDSTAFF_CRYSTAL": {
+    "en": "Grandmaster's Rotten Crystal",
+    "es": "Cristal Putrefacto del Gran Maestro"
+  },
+  "T7_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD": {
+    "en": "Grandmaster's Lost Cursed Crystal",
+    "es": "Cristal maldito perdido del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_DAGGER_HELL": {
+    "en": "Grandmaster's Broken Demonic Fang",
+    "es": "Colmillo demoníaco roto del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_FIRESTAFF_CRYSTAL": {
+    "en": "Grandmaster's Pyreheart Crystal",
+    "es": "Cristal de Corazón de Pira del Gran Maestro"
+  },
+  "T7_ARTEFACT_MAIN_FIRESTAFF_KEEPER": {
+    "en": "Grandmaster's Wildfire Orb",
+    "es": "Orbe de fuego incontrolable del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_FROSTSTAFF_AVALON": {
+    "en": "Grandmaster's Chilled Crystalline Shard",
+    "es": "Fragmento cristalino helado del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_FROSTSTAFF_KEEPER": {
+    "en": "Grandmaster's Hoarfrost Orb",
+    "es": "Orbe de escarcha del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_HOLYSTAFF_AVALON": {
+    "en": "Grandmaster's Messianic Curio",
+    "es": "Rareza mesiánica del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA": {
+    "en": "Grandmaster's Possessed Scroll",
+    "es": "Pergamino poseído del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_MACE_CRYSTAL": {
+    "en": "Grandmaster's Dreadstorm Crystal",
+    "es": "Cristal de la tormenta del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_MACE_HELL": {
+    "en": "Grandmaster's Infernal Mace Head",
+    "es": "Cabeza de maza infernal del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_NATURESTAFF_AVALON": {
+    "en": "Grandmaster's Uprooted Perennial Sapling",
+    "es": "Plántula desarraigada perenne del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_NATURESTAFF_CRYSTAL": {
+    "en": "Grandmaster's Forged Crystal",
+    "es": "Cristal Forjado del Gran Maestro"
+  },
+  "T7_ARTEFACT_MAIN_NATURESTAFF_KEEPER": {
+    "en": "Grandmaster's Druidic Inscriptions",
+    "es": "Inscripciones de druida del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_RAPIER_MORGANA": {
+    "en": "Grandmaster's Hardened Debole",
+    "es": "Punta endurecida del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_ROCKMACE_KEEPER": {
+    "en": "Grandmaster's Runed Rock",
+    "es": "Roca rúnica del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_SCIMITAR_MORGANA": {
+    "en": "Grandmaster's Bloodforged Blade",
+    "es": "Hoja forjada con sangre del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_SPEAR_KEEPER": {
+    "en": "Grandmaster's Keeper Spearhead",
+    "es": "Cabeza de lanza de guardián del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_SPEAR_LANCE_AVALON": {
+    "en": "Grandmaster's Ruined Ancestral Vamplate",
+    "es": "Vamplate ancestral arruinado del gran maestro"
+  },
+  "T7_ARTEFACT_MAIN_SWORD_CRYSTAL": {
+    "en": "Grandmaster's Infinite Crystal",
+    "es": "Cristal infinito del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_CENSER_AVALON": {
+    "en": "Grandmaster's Severed Celestial Keepsake",
+    "es": "Recuerdo celestial roto del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_DEMONSKULL_HELL": {
+    "en": "Grandmaster's Demonic Jawbone",
+    "es": "Quijada demoníaca del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_HORN_KEEPER": {
+    "en": "Grandmaster's Runed Horn",
+    "es": "Cuerno rúnico del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_JESTERCANE_HELL": {
+    "en": "Grandmaster's Hellish Handle",
+    "es": "Empuñadura diabólica del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_LAMP_UNDEAD": {
+    "en": "Grandmaster's Ghastly Candle",
+    "es": "Candil abominable del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_ORB_MORGANA": {
+    "en": "Grandmaster's Alluring Crystal",
+    "es": "Cristal tentador del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_SHIELD_AVALON": {
+    "en": "Grandmaster's Crushed Avalonian Heirloom",
+    "es": "Reliquia avaloniana destruida del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_SHIELD_CRYSTAL": {
+    "en": "Grandmaster's Unbreakable Crystal",
+    "es": "Cristal Inquebrantable del Gran Maestro"
+  },
+  "T7_ARTEFACT_OFF_SHIELD_HELL": {
+    "en": "Grandmaster's Infernal Shield Core",
+    "es": "Núcleo de escudo infernal del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA": {
+    "en": "Grandmaster's Bloodforged Spikes",
+    "es": "Púas forjadas con sangre del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_TALISMAN_AVALON": {
+    "en": "Grandmaster's Shattered Avalonian Memento",
+    "es": "Recuerdo avaloniano destrozado del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_TOME_CRYSTAL": {
+    "en": "Grandmaster's Timelocked Crystal",
+    "es": "Cristal Cronoestático del Gran Maestro"
+  },
+  "T7_ARTEFACT_OFF_TORCH_CRYSTAL": {
+    "en": "Grandmaster's Blueflame Crystal",
+    "es": "Cristal Llamazul del Gran Maestro"
+  },
+  "T7_ARTEFACT_OFF_TOTEM_KEEPER": {
+    "en": "Grandmaster's Inscribed Stone",
+    "es": "Piedra inscrita del gran maestro"
+  },
+  "T7_ARTEFACT_OFF_TOWERSHIELD_UNDEAD": {
+    "en": "Grandmaster's Ancient Shield Core",
+    "es": "Núcleo de escudo antiguo del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_CLOTH_AVALON": {
+    "en": "Grandmaster's Sanctified Bindings",
+    "es": "Ataduras santificadas del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_CLOTH_FEY": {
+    "en": "Grandmaster's Fey Dragonscales",
+    "es": "Escamas de dragón feéricas del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_CLOTH_HELL": {
+    "en": "Grandmaster's Infernal Cloth Bindings",
+    "es": "Ataduras de tela infernal del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_CLOTH_KEEPER": {
+    "en": "Grandmaster's Druidic Bindings",
+    "es": "Ataduras druidas del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_CLOTH_MORGANA": {
+    "en": "Grandmaster's Alluring Bindings",
+    "es": "Ataduras tentadoras del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_LEATHER_AVALON": {
+    "en": "Grandmaster's Augured Fasteners",
+    "es": "Sujetadores augurados del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_LEATHER_FEY": {
+    "en": "Grandmaster's Griffin Underfur",
+    "es": "Pelaje de grifo del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_LEATHER_HELL": {
+    "en": "Grandmaster's Demonhide Bindings",
+    "es": "Ataduras de piel de demonio del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_LEATHER_MORGANA": {
+    "en": "Grandmaster's Imbued Soles",
+    "es": "Suelas imbuidas del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_LEATHER_UNDEAD": {
+    "en": "Grandmaster's Ghastly Bindings",
+    "es": "Ataduras abominables del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_PLATE_AVALON": {
+    "en": "Grandmaster's Exalted Greave",
+    "es": "Greba exaltada del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_PLATE_FEY": {
+    "en": "Grandmaster's Veilweaver Claws",
+    "es": "Garras de tejevelos del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_PLATE_HELL": {
+    "en": "Grandmaster's Demonic Filling",
+    "es": "Relleno demoníaco del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_PLATE_KEEPER": {
+    "en": "Grandmaster's Inscribed Bindings",
+    "es": "Ataduras inscritas del gran maestro"
+  },
+  "T7_ARTEFACT_SHOES_PLATE_UNDEAD": {
+    "en": "Grandmaster's Ancient Bindings",
+    "es": "Ataduras antiguas del gran maestro"
+  },
+  "T7_ARTEFACT_TOKEN_FAVOR_1": {
+    "en": "Grandmaster's Crystallized Spirit",
+    "es": "Espíritu cristalizado del gran maestro"
+  },
+  "T7_ARTEFACT_TOKEN_FAVOR_2": {
+    "en": "Grandmaster's Crystallized Dread",
+    "es": "Terror cristalizado del gran maestro"
+  },
+  "T7_ARTEFACT_TOKEN_FAVOR_3": {
+    "en": "Grandmaster's Crystallized Magic",
+    "es": "Magia cristalizada del gran maestro"
+  },
+  "T7_ARTEFACT_TOKEN_FAVOR_4": {
+    "en": "Grandmaster's Crystallized Divinity",
+    "es": "Divinidad cristalizada del gran maestro"
+  },
   "T7_BAG": {
     "en": "Grandmaster's Bag",
     "es": "Bolsa del gran maestro"
@@ -25954,6 +28354,606 @@
   "T8_ARMOR_PLATE_UNDEAD@4": {
     "en": "Elder's Graveguard Armor",
     "es": "Armadura de guardatumbas del anciano"
+  },
+  "T8_ARTEFACT_2H_ARCANESTAFF_CRYSTAL": {
+    "en": "Elder's Startouched Crystal",
+    "es": "Cristal estrellado del anciano"
+  },
+  "T8_ARTEFACT_2H_ARCANESTAFF_HELL": {
+    "en": "Elder's Occult Orb",
+    "es": "Orbe oculto del anciano"
+  },
+  "T8_ARTEFACT_2H_ARCANE_RINGPAIR_AVALON": {
+    "en": "Elder's Hypnotic Harmonic Ring",
+    "es": "Anillo armónico hipnótico del anciano"
+  },
+  "T8_ARTEFACT_2H_AXE_AVALON": {
+    "en": "Elder's Avalonian Battle Memoir",
+    "es": "Recuerdos de batalla avalonianos del anciano"
+  },
+  "T8_ARTEFACT_2H_BOW_AVALON": {
+    "en": "Elder's Immaculately Crafted Riser",
+    "es": "Tubo fabricado inmaculado del anciano"
+  },
+  "T8_ARTEFACT_2H_BOW_CRYSTAL": {
+    "en": "Elder's Windborne Crystal",
+    "es": "Cristal de Viento del Anciano"
+  },
+  "T8_ARTEFACT_2H_BOW_HELL": {
+    "en": "Elder's Demonic Arrowheads",
+    "es": "Puntas de flecha demoníacas del anciano"
+  },
+  "T8_ARTEFACT_2H_BOW_KEEPER": {
+    "en": "Elder's Carved Bone",
+    "es": "Hueso tallado del anciano"
+  },
+  "T8_ARTEFACT_2H_CLAYMORE_AVALON": {
+    "en": "Elder's Remnants of the Old King",
+    "es": "Restos del viejo rey del anciano"
+  },
+  "T8_ARTEFACT_2H_CLEAVER_HELL": {
+    "en": "Elder's Demonic Blade",
+    "es": "Hoja demoníaca del anciano"
+  },
+  "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA": {
+    "en": "Elder's Reinforced Morgana Pole",
+    "es": "Palo de Morgana reforzado del anciano"
+  },
+  "T8_ARTEFACT_2H_CROSSBOWLARGE_MORGANA": {
+    "en": "Elder's Alluring Bolts",
+    "es": "Saetas tentadoras del anciano"
+  },
+  "T8_ARTEFACT_2H_CROSSBOW_CANNON_AVALON": {
+    "en": "Elder's Humming Avalonian Whirligig",
+    "es": "Veleta de zumbido avaloniano del anciano"
+  },
+  "T8_ARTEFACT_2H_CURSEDSTAFF_MORGANA": {
+    "en": "Elder's Bloodforged Catalyst",
+    "es": "Catalizador forjado con sangre del anciano"
+  },
+  "T8_ARTEFACT_2H_DAGGERPAIR_CRYSTAL": {
+    "en": "Elder's Death-Touched Crystal",
+    "es": "Cristal mortífero del anciano"
+  },
+  "T8_ARTEFACT_2H_DAGGER_KATAR_AVALON": {
+    "en": "Elder's Bloodstained Antiquities",
+    "es": "Antigüedades sangrientas del anciano"
+  },
+  "T8_ARTEFACT_2H_DOUBLEBLADEDSTAFF_CRYSTAL": {
+    "en": "Elder's Mirage Crystal",
+    "es": "Cristal miraje del anciano"
+  },
+  "T8_ARTEFACT_2H_DUALAXE_KEEPER": {
+    "en": "Elder's Keeper Axeheads",
+    "es": "Cabezas de hacha de guardián del anciano"
+  },
+  "T8_ARTEFACT_2H_DUALCROSSBOW_CRYSTAL": {
+    "en": "Elder's Arclight Crystal",
+    "es": "Cristal de Luz del Anciano"
+  },
+  "T8_ARTEFACT_2H_DUALCROSSBOW_HELL": {
+    "en": "Elder's Hellish Bolts",
+    "es": "Saetas diabólicas del anciano"
+  },
+  "T8_ARTEFACT_2H_DUALHAMMER_HELL": {
+    "en": "Elder's Hellish Hammer Heads",
+    "es": "Cabezas de martillo diabólicas del anciano"
+  },
+  "T8_ARTEFACT_2H_DUALMACE_AVALON": {
+    "en": "Elder's Broken Oaths",
+    "es": "Juramentos rotos del anciano"
+  },
+  "T8_ARTEFACT_2H_DUALSCIMITAR_UNDEAD": {
+    "en": "Elder's Cursed Blades",
+    "es": "Hojas malditas del anciano"
+  },
+  "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD": {
+    "en": "Elder's Ghastly Blades",
+    "es": "Hojas abominables del anciano"
+  },
+  "T8_ARTEFACT_2H_ENIGMATICORB_MORGANA": {
+    "en": "Elder's Possessed Catalyst",
+    "es": "Catalizador poseído del anciano"
+  },
+  "T8_ARTEFACT_2H_FIRESTAFF_HELL": {
+    "en": "Elder's Burning Orb",
+    "es": "Orbe ardiente del anciano"
+  },
+  "T8_ARTEFACT_2H_FIRE_RINGPAIR_AVALON": {
+    "en": "Elder's Glowing Harmonic Ring",
+    "es": "Anillo armónico brillante del anciano"
+  },
+  "T8_ARTEFACT_2H_FROSTSTAFF_CRYSTAL": {
+    "en": "Elder's Icy Crystal",
+    "es": "Cristal álgido del anciano"
+  },
+  "T8_ARTEFACT_2H_GLAIVE_CRYSTAL": {
+    "en": "Elder's Rift Crystal",
+    "es": "Cristal fisurante del anciano"
+  },
+  "T8_ARTEFACT_2H_HALBERD_MORGANA": {
+    "en": "Elder's Morgana Halberd Head",
+    "es": "Cabeza de alabarda de Morgana del anciano"
+  },
+  "T8_ARTEFACT_2H_HAMMER_AVALON": {
+    "en": "Elder's Massive Metallic Hand",
+    "es": "Mano metálica masiva del anciano"
+  },
+  "T8_ARTEFACT_2H_HAMMER_CRYSTAL": {
+    "en": "Elder's Crackling Crystal",
+    "es": "Cristal Crepitante del Anciano"
+  },
+  "T8_ARTEFACT_2H_HAMMER_UNDEAD": {
+    "en": "Elder's Ancient Hammer Head",
+    "es": "Cabeza de martillo antigua del anciano"
+  },
+  "T8_ARTEFACT_2H_HARPOON_HELL": {
+    "en": "Elder's Infernal Harpoon Tip",
+    "es": "Punta de arpón infernal del anciano"
+  },
+  "T8_ARTEFACT_2H_HOLYSTAFF_CRYSTAL": {
+    "en": "Elder's Exalted Crystal",
+    "es": "Cristal exaltado del anciano"
+  },
+  "T8_ARTEFACT_2H_HOLYSTAFF_HELL": {
+    "en": "Elder's Infernal Scroll",
+    "es": "Pergamino infernal del anciano"
+  },
+  "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD": {
+    "en": "Elder's Ghastly Scroll",
+    "es": "Pergamino abominable del anciano"
+  },
+  "T8_ARTEFACT_2H_ICECRYSTAL_UNDEAD": {
+    "en": "Elder's Cursed Frozen Crystal",
+    "es": "Cristal congelado maldito del anciano"
+  },
+  "T8_ARTEFACT_2H_ICEGAUNTLETS_HELL": {
+    "en": "Elder's Icicle Orb",
+    "es": "Orbe de carámbanos del anciano"
+  },
+  "T8_ARTEFACT_2H_INFERNOSTAFF_MORGANA": {
+    "en": "Elder's Unholy Scroll",
+    "es": "Pergamino profano del anciano"
+  },
+  "T8_ARTEFACT_2H_IRONGAUNTLETS_HELL": {
+    "en": "Elder's Black Leather",
+    "es": "Cuero negro del anciano"
+  },
+  "T8_ARTEFACT_2H_KNUCKLES_AVALON": {
+    "en": "Elder's Damaged Avalonian Gauntlet",
+    "es": "Guantelete avaloniano dañado del anciano"
+  },
+  "T8_ARTEFACT_2H_KNUCKLES_CRYSTAL": {
+    "en": "Elder's Pulsating Crystal",
+    "es": "Cristal Pulsante del Anciano"
+  },
+  "T8_ARTEFACT_2H_KNUCKLES_HELL": {
+    "en": "Elder's Severed Demonic Horns",
+    "es": "Cuernos demoníacos rotos del anciano"
+  },
+  "T8_ARTEFACT_2H_KNUCKLES_KEEPER": {
+    "en": "Elder's Ursine Guardian Remains",
+    "es": "Restos de guardián osuno del anciano"
+  },
+  "T8_ARTEFACT_2H_KNUCKLES_MORGANA": {
+    "en": "Elder's Warped Raven Plate",
+    "es": "Placa de cuervo deforme del anciano"
+  },
+  "T8_ARTEFACT_2H_LONGBOW_UNDEAD": {
+    "en": "Elder's Ghastly Arrows",
+    "es": "Flechas abominables del anciano"
+  },
+  "T8_ARTEFACT_2H_MACE_MORGANA": {
+    "en": "Elder's Imbued Mace Head",
+    "es": "Cabeza de maza imbuida del anciano"
+  },
+  "T8_ARTEFACT_2H_NATURESTAFF_HELL": {
+    "en": "Elder's Symbol of Blight",
+    "es": "Símbolo de infortunio del anciano"
+  },
+  "T8_ARTEFACT_2H_NATURESTAFF_KEEPER": {
+    "en": "Elder's Preserved Log",
+    "es": "Tronco preservado del anciano"
+  },
+  "T8_ARTEFACT_2H_QUARTERSTAFF_AVALON": {
+    "en": "Elder's Timeworn Walking Staff",
+    "es": "Bastón desgastado del anciano"
+  },
+  "T8_ARTEFACT_2H_RAM_KEEPER": {
+    "en": "Elder's Engraved Log",
+    "es": "Tronco grabado del anciano"
+  },
+  "T8_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD": {
+    "en": "Elder's Lost Crossbow Mechanism",
+    "es": "Mecanismo perdido de ballesta del anciano"
+  },
+  "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER": {
+    "en": "Elder's Preserved Rocks",
+    "es": "Rocas preservadas del anciano"
+  },
+  "T8_ARTEFACT_2H_SCYTHE_CRYSTAL": {
+    "en": "Elder's Edged Crystal",
+    "es": "Cristal afilado del anciano"
+  },
+  "T8_ARTEFACT_2H_SCYTHE_HELL": {
+    "en": "Elder's Hellish Sicklehead",
+    "es": "Cabeza de hoz diabólica del anciano"
+  },
+  "T8_ARTEFACT_2H_SHAPESHIFTER_AVALON": {
+    "en": "Elder's Dawnbird Remnant",
+    "es": "Restos de ave del alba del anciano"
+  },
+  "T8_ARTEFACT_2H_SHAPESHIFTER_CRYSTAL": {
+    "en": "Elder's Serpent Crystal",
+    "es": "Cristal Serpentino del Anciano"
+  },
+  "T8_ARTEFACT_2H_SHAPESHIFTER_HELL": {
+    "en": "Elder's Hellfire Imp Remnant",
+    "es": "Restos de diablillo de fuego infernal del anciano"
+  },
+  "T8_ARTEFACT_2H_SHAPESHIFTER_KEEPER": {
+    "en": "Elder's Runestone Golem Remnant",
+    "es": "Restos de gólem de piedra rúnica del anciano"
+  },
+  "T8_ARTEFACT_2H_SHAPESHIFTER_MORGANA": {
+    "en": "Elder's Werewolf Remnant",
+    "es": "Restos de hombre lobo del anciano"
+  },
+  "T8_ARTEFACT_2H_SKULLORB_HELL": {
+    "en": "Elder's Cursed Jawbone",
+    "es": "Quijada maldita del anciano"
+  },
+  "T8_ARTEFACT_2H_TRIDENT_UNDEAD": {
+    "en": "Elder's Cursed Barbs",
+    "es": "Pinchos malditos del anciano"
+  },
+  "T8_ARTEFACT_2H_TWINSCYTHE_HELL": {
+    "en": "Elder's Hellish Sicklehead Pair",
+    "es": "Par de cabezas de hoz diabólica del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_CLOTH_AVALON": {
+    "en": "Elder's Sanctified Belt",
+    "es": "Cinturón santificado del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_CLOTH_FEY": {
+    "en": "Elder's Fey Dorsal Wing",
+    "es": "Ala dorsal feérica del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_CLOTH_HELL": {
+    "en": "Elder's Infernal Cloth Folds",
+    "es": "Pliegues de tela infernal del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_CLOTH_KEEPER": {
+    "en": "Elder's Druidic Feathers",
+    "es": "Plumas druidas del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_CLOTH_MORGANA": {
+    "en": "Elder's Alluring Amulet",
+    "es": "Amuleto tentador del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_LEATHER_AVALON": {
+    "en": "Elder's Augured Sash",
+    "es": "Faja augurada del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_LEATHER_FEY": {
+    "en": "Elder's Untarnished Griffin Feathers",
+    "es": "Plumas de grifo impolutas del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_LEATHER_HELL": {
+    "en": "Elder's Demonhide Leather",
+    "es": "Cuero de piel de demonio del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_LEATHER_MORGANA": {
+    "en": "Elder's Imbued Leather Folds",
+    "es": "Pliegues de cuero imbuidos del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_LEATHER_UNDEAD": {
+    "en": "Elder's Ghastly Leather",
+    "es": "Cuero abominable del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_PLATE_AVALON": {
+    "en": "Elder's Exalted Plating",
+    "es": "Enchapado exaltado del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_PLATE_FEY": {
+    "en": "Elder's Veilweaver Carapace",
+    "es": "Caparazón de tejevelos del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_PLATE_HELL": {
+    "en": "Elder's Demonic Plates",
+    "es": "Placas demoníacas del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_PLATE_KEEPER": {
+    "en": "Elder's Preserved Animal Fur",
+    "es": "Pieles de animal preservadas del anciano"
+  },
+  "T8_ARTEFACT_ARMOR_PLATE_UNDEAD": {
+    "en": "Elder's Ancient Chain Rings",
+    "es": "Cota de malla antigua del anciano"
+  },
+  "T8_ARTEFACT_HEAD_CLOTH_AVALON": {
+    "en": "Elder's Sanctified Mask",
+    "es": "Máscara santificada del anciano"
+  },
+  "T8_ARTEFACT_HEAD_CLOTH_FEY": {
+    "en": "Elder's Intact Fey Fibula",
+    "es": "Fíbula feérica intacta del anciano"
+  },
+  "T8_ARTEFACT_HEAD_CLOTH_HELL": {
+    "en": "Elder's Infernal Cloth Visor",
+    "es": "Visera de tela infernal del anciano"
+  },
+  "T8_ARTEFACT_HEAD_CLOTH_KEEPER": {
+    "en": "Elder's Druidic Preserved Beak",
+    "es": "Pico preservado druida del anciano"
+  },
+  "T8_ARTEFACT_HEAD_CLOTH_MORGANA": {
+    "en": "Elder's Alluring Padding",
+    "es": "Acolchado tentador del anciano"
+  },
+  "T8_ARTEFACT_HEAD_LEATHER_AVALON": {
+    "en": "Elder's Augured Padding",
+    "es": "Relleno Augurado del Anciano"
+  },
+  "T8_ARTEFACT_HEAD_LEATHER_FEY": {
+    "en": "Elder's Flawless Griffin Beak",
+    "es": "Pico de grifo impecable del anciano"
+  },
+  "T8_ARTEFACT_HEAD_LEATHER_HELL": {
+    "en": "Elder's Demonhide Padding",
+    "es": "Acolchado de piel de demonio del anciano"
+  },
+  "T8_ARTEFACT_HEAD_LEATHER_MORGANA": {
+    "en": "Elder's Imbued Visor",
+    "es": "Visera imbuida del anciano"
+  },
+  "T8_ARTEFACT_HEAD_LEATHER_UNDEAD": {
+    "en": "Elder's Ghastly Visor",
+    "es": "Visera abominable del anciano"
+  },
+  "T8_ARTEFACT_HEAD_PLATE_AVALON": {
+    "en": "Elder's Exalted Visor",
+    "es": "Visera exaltada del anciano"
+  },
+  "T8_ARTEFACT_HEAD_PLATE_FEY": {
+    "en": "Elder's Veilweaver Mandibles",
+    "es": "Mandíbulas de tejevelos del anciano"
+  },
+  "T8_ARTEFACT_HEAD_PLATE_HELL": {
+    "en": "Elder's Demonic Scraps",
+    "es": "Esquirlas demoníacas del anciano"
+  },
+  "T8_ARTEFACT_HEAD_PLATE_KEEPER": {
+    "en": "Elder's Carved Skull Padding",
+    "es": "Acolchado de calavera tallada del anciano"
+  },
+  "T8_ARTEFACT_HEAD_PLATE_UNDEAD": {
+    "en": "Elder's Ancient Padding",
+    "es": "Acolchado antiguo del anciano"
+  },
+  "T8_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD": {
+    "en": "Elder's Lost Arcane Crystal",
+    "es": "Cristal arcano perdido del anciano"
+  },
+  "T8_ARTEFACT_MAIN_CURSEDSTAFF_AVALON": {
+    "en": "Elder's Fractured Opaque Orb",
+    "es": "Orbe opaco fracturado del anciano"
+  },
+  "T8_ARTEFACT_MAIN_CURSEDSTAFF_CRYSTAL": {
+    "en": "Elder's Rotten Crystal",
+    "es": "Cristal Putrefacto del Anciano"
+  },
+  "T8_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD": {
+    "en": "Elder's Lost Cursed Crystal",
+    "es": "Cristal maldito perdido del anciano"
+  },
+  "T8_ARTEFACT_MAIN_DAGGER_HELL": {
+    "en": "Elder's Broken Demonic Fang",
+    "es": "Colmillo demoníaco roto del anciano"
+  },
+  "T8_ARTEFACT_MAIN_FIRESTAFF_CRYSTAL": {
+    "en": "Elder's Pyreheart Crystal",
+    "es": "Cristal de Corazón de Pira del Anciano"
+  },
+  "T8_ARTEFACT_MAIN_FIRESTAFF_KEEPER": {
+    "en": "Elder's Wildfire Orb",
+    "es": "Orbe de fuego incontrolable del anciano"
+  },
+  "T8_ARTEFACT_MAIN_FROSTSTAFF_AVALON": {
+    "en": "Elder's Chilled Crystalline Shard",
+    "es": "Fragmento cristalino helado del anciano"
+  },
+  "T8_ARTEFACT_MAIN_FROSTSTAFF_KEEPER": {
+    "en": "Elder's Hoarfrost Orb",
+    "es": "Orbe de escarcha del anciano"
+  },
+  "T8_ARTEFACT_MAIN_HOLYSTAFF_AVALON": {
+    "en": "Elder's Messianic Curio",
+    "es": "Rareza mesiánica del anciano"
+  },
+  "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA": {
+    "en": "Elder's Possessed Scroll",
+    "es": "Pergamino poseído del anciano"
+  },
+  "T8_ARTEFACT_MAIN_MACE_CRYSTAL": {
+    "en": "Elder's Dreadstorm Crystal",
+    "es": "Cristal de la tormenta del anciano"
+  },
+  "T8_ARTEFACT_MAIN_MACE_HELL": {
+    "en": "Elder's Infernal Mace Head",
+    "es": "Cabeza de maza infernal del anciano"
+  },
+  "T8_ARTEFACT_MAIN_NATURESTAFF_AVALON": {
+    "en": "Elder's Uprooted Perennial Sapling",
+    "es": "Plántula desarraigada perenne del anciano"
+  },
+  "T8_ARTEFACT_MAIN_NATURESTAFF_CRYSTAL": {
+    "en": "Elder's Forged Crystal",
+    "es": "Cristal Forjado del Anciano"
+  },
+  "T8_ARTEFACT_MAIN_NATURESTAFF_KEEPER": {
+    "en": "Elder's Druidic Inscriptions",
+    "es": "Inscripciones de druida del anciano"
+  },
+  "T8_ARTEFACT_MAIN_RAPIER_MORGANA": {
+    "en": "Elder's Hardened Debole",
+    "es": "Punta endurecida del anciano"
+  },
+  "T8_ARTEFACT_MAIN_ROCKMACE_KEEPER": {
+    "en": "Elder's Runed Rock",
+    "es": "Roca rúnica del anciano"
+  },
+  "T8_ARTEFACT_MAIN_SCIMITAR_MORGANA": {
+    "en": "Elder's Bloodforged Blade",
+    "es": "Hoja forjada con sangre del anciano"
+  },
+  "T8_ARTEFACT_MAIN_SPEAR_KEEPER": {
+    "en": "Elder's Keeper Spearhead",
+    "es": "Cabeza de lanza de guardián del anciano"
+  },
+  "T8_ARTEFACT_MAIN_SPEAR_LANCE_AVALON": {
+    "en": "Elder's Ruined Ancestral Vamplate",
+    "es": "Vamplate ancestral arruinado del anciano"
+  },
+  "T8_ARTEFACT_MAIN_SWORD_CRYSTAL": {
+    "en": "Elder's Infinite Crystal",
+    "es": "Cristal infinito del anciano"
+  },
+  "T8_ARTEFACT_OFF_CENSER_AVALON": {
+    "en": "Elder's Severed Celestial Keepsake",
+    "es": "Recuerdo celestial roto del anciano"
+  },
+  "T8_ARTEFACT_OFF_DEMONSKULL_HELL": {
+    "en": "Elder's Demonic Jawbone",
+    "es": "Quijada demoníaca del anciano"
+  },
+  "T8_ARTEFACT_OFF_HORN_KEEPER": {
+    "en": "Elder's Runed Horn",
+    "es": "Cuerno rúnico del anciano"
+  },
+  "T8_ARTEFACT_OFF_JESTERCANE_HELL": {
+    "en": "Elder's Hellish Handle",
+    "es": "Empuñadura diabólica del anciano"
+  },
+  "T8_ARTEFACT_OFF_LAMP_UNDEAD": {
+    "en": "Elder's Ghastly Candle",
+    "es": "Candil abominable del anciano"
+  },
+  "T8_ARTEFACT_OFF_ORB_MORGANA": {
+    "en": "Elder's Alluring Crystal",
+    "es": "Cristal tentador del anciano"
+  },
+  "T8_ARTEFACT_OFF_SHIELD_AVALON": {
+    "en": "Elder's Crushed Avalonian Heirloom",
+    "es": "Reliquia avaloniana destruida del anciano"
+  },
+  "T8_ARTEFACT_OFF_SHIELD_CRYSTAL": {
+    "en": "Elder's Unbreakable Crystal",
+    "es": "Cristal Inquebrantable del Anciano"
+  },
+  "T8_ARTEFACT_OFF_SHIELD_HELL": {
+    "en": "Elder's Infernal Shield Core",
+    "es": "Núcleo de escudo infernal del anciano"
+  },
+  "T8_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA": {
+    "en": "Elder's Bloodforged Spikes",
+    "es": "Púas forjadas con sangre del anciano"
+  },
+  "T8_ARTEFACT_OFF_TALISMAN_AVALON": {
+    "en": "Elder's Shattered Avalonian Memento",
+    "es": "Recuerdo avaloniano destrozado del anciano"
+  },
+  "T8_ARTEFACT_OFF_TOME_CRYSTAL": {
+    "en": "Elder's Timelocked Crystal",
+    "es": "Cristal Cronoestático del Anciano"
+  },
+  "T8_ARTEFACT_OFF_TORCH_CRYSTAL": {
+    "en": "Elder's Blueflame Crystal",
+    "es": "Cristal Llamazul del Anciano"
+  },
+  "T8_ARTEFACT_OFF_TOTEM_KEEPER": {
+    "en": "Elder's Inscribed Stone",
+    "es": "Piedra inscrita del anciano"
+  },
+  "T8_ARTEFACT_OFF_TOWERSHIELD_UNDEAD": {
+    "en": "Elder's Ancient Shield Core",
+    "es": "Núcleo de escudo antiguo del anciano"
+  },
+  "T8_ARTEFACT_SHOES_CLOTH_AVALON": {
+    "en": "Elder's Sanctified Bindings",
+    "es": "Ataduras santificadas del anciano"
+  },
+  "T8_ARTEFACT_SHOES_CLOTH_FEY": {
+    "en": "Elder's Fey Dragonscales",
+    "es": "Escamas de dragón feéricas del anciano"
+  },
+  "T8_ARTEFACT_SHOES_CLOTH_HELL": {
+    "en": "Elder's Infernal Cloth Bindings",
+    "es": "Ataduras de tela infernal del anciano"
+  },
+  "T8_ARTEFACT_SHOES_CLOTH_KEEPER": {
+    "en": "Elder's Druidic Bindings",
+    "es": "Ataduras druidas del anciano"
+  },
+  "T8_ARTEFACT_SHOES_CLOTH_MORGANA": {
+    "en": "Elder's Alluring Bindings",
+    "es": "Ataduras tentadoras del anciano"
+  },
+  "T8_ARTEFACT_SHOES_LEATHER_AVALON": {
+    "en": "Elder's Augured Fasteners",
+    "es": "Sujetadores augurados del anciano"
+  },
+  "T8_ARTEFACT_SHOES_LEATHER_FEY": {
+    "en": "Elder's Griffin Underfur",
+    "es": "Pelaje de grifo del anciano"
+  },
+  "T8_ARTEFACT_SHOES_LEATHER_HELL": {
+    "en": "Elder's Demonhide Bindings",
+    "es": "Ataduras de piel de demonio del anciano"
+  },
+  "T8_ARTEFACT_SHOES_LEATHER_MORGANA": {
+    "en": "Elder's Imbued Soles",
+    "es": "Suelas imbuidas del anciano"
+  },
+  "T8_ARTEFACT_SHOES_LEATHER_UNDEAD": {
+    "en": "Elder's Ghastly Bindings",
+    "es": "Ataduras abominables del anciano"
+  },
+  "T8_ARTEFACT_SHOES_PLATE_AVALON": {
+    "en": "Elder's Exalted Greave",
+    "es": "Greba exaltada del anciano"
+  },
+  "T8_ARTEFACT_SHOES_PLATE_FEY": {
+    "en": "Elder's Veilweaver Claws",
+    "es": "Garras de tejevelos del anciano"
+  },
+  "T8_ARTEFACT_SHOES_PLATE_HELL": {
+    "en": "Elder's Demonic Filling",
+    "es": "Relleno demoníaco del anciano"
+  },
+  "T8_ARTEFACT_SHOES_PLATE_KEEPER": {
+    "en": "Elder's Inscribed Bindings",
+    "es": "Ataduras inscritas del anciano"
+  },
+  "T8_ARTEFACT_SHOES_PLATE_UNDEAD": {
+    "en": "Elder's Ancient Bindings",
+    "es": "Ataduras antiguas del anciano"
+  },
+  "T8_ARTEFACT_TOKEN_FAVOR_1": {
+    "en": "Elder's Crystallized Spirit",
+    "es": "Espíritu cristalizado del anciano"
+  },
+  "T8_ARTEFACT_TOKEN_FAVOR_2": {
+    "en": "Elder's Crystallized Dread",
+    "es": "Terror cristalizado del anciano"
+  },
+  "T8_ARTEFACT_TOKEN_FAVOR_3": {
+    "en": "Elder's Crystallized Magic",
+    "es": "Magia cristalizada del anciano"
+  },
+  "T8_ARTEFACT_TOKEN_FAVOR_4": {
+    "en": "Elder's Crystallized Divinity",
+    "es": "Divinidad cristalizada del anciano"
   },
   "T8_BAG": {
     "en": "Elder's Bag",

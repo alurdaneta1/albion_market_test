@@ -82,7 +82,7 @@ def freshness_status(
     if age_minutes < 5:
         return "Reciente"
     if age_minutes <= 30:
-        return "Precaución"
+        return "Precaucion"
     return "Desactualizado"
 
 
